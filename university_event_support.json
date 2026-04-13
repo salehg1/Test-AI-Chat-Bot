@@ -1,0 +1,322 @@
+[
+  {
+    "instruction": "What time does the Annual Tech Conference start?",
+    "input": "",
+    "output": "The Annual Tech Conference starts at 9:00 AM. You can check the schedule on the event page for more details."
+  },
+  {
+    "instruction": "ما هو وقت بدء المؤتمر التقني السنوي؟",
+    "input": "",
+    "output": "يبدأ المؤتمر التقني السنوي في الساعة 9:00 صباحًا. يمكنك التحقق من الجدول الزمني على صفحة الحدث للمزيد من التفاصيل."
+  },
+  {
+    "instruction": "Can I get a certificate for attending the Annual Tech Conference?",
+    "input": "",
+    "output": "Yes, certificates of attendance are provided for the Annual Tech Conference. You can download it from your account after the event."
+  },
+  {
+    "instruction": "هل يمكنني الحصول على شهادة لحضور المؤتمر التقني السنوي؟",
+    "input": "",
+    "output": "نعم، يتم تقديم شهادات حضور للمؤتمر التقني السنوي. يمكنك تنزيلها من حسابك بعد انتهاء الحدث."
+  },
+  {
+    "instruction": "Are there any workshops during the Annual Tech Conference?",
+    "input": "",
+    "output": "Yes, there are several workshops scheduled during the conference. Check the event agenda for timings and topics."
+  },
+  {
+    "instruction": "هل هناك ورش عمل خلال المؤتمر التقني السنوي؟",
+    "input": "",
+    "output": "نعم، هناك عدة ورش عمل مقررة خلال المؤتمر. تحقق من أجندة الحدث لمعرفة المواعيد والمواضيع."
+  },
+  {
+    "instruction": "How long is the Annual Tech Conference?",
+    "input": "",
+    "output": "The Annual Tech Conference is a two-day event, starting on October 10th and ending on October 11th."
+  },
+  {
+    "instruction": "كم مدة المؤتمر التقني السنوي؟",
+    "input": "",
+    "output": "المؤتمر التقني السنوي هو حدث لمدة يومين، يبدأ في 10 أكتوبر وينتهي في 11 أكتوبر."
+  },
+  {
+    "instruction": "Can I volunteer at the Annual Tech Conference?",
+    "input": "",
+    "output": "Yes, volunteer applications are open. You can find more details and apply on the event website."
+  },
+  {
+    "instruction": "هل يمكنني التطوع في المؤتمر التقني السنوي؟",
+    "input": "",
+    "output": "نعم، طلبات التطوع مفتوحة. يمكنك العثور على مزيد من التفاصيل والتقديم على موقع الحدث."
+  },
+  {
+    "instruction": "Will there be food provided at the Annual Tech Conference?",
+    "input": "",
+    "output": "Yes, lunch and snacks will be provided for all attendees during the conference."
+  },
+  {
+    "instruction": "هل سيتم توفير الطعام في المؤتمر التقني السنوي؟",
+    "input": "",
+    "output": "نعم، سيتم توفير الغداء والوجبات الخفيفة لجميع الحضور خلال المؤتمر."
+  },
+  {
+    "instruction": "Can I present my project at the Annual Tech Conference?",
+    "input": "",
+    "output": "Yes, there is a session for student projects. You can submit your project proposal on the event website before the deadline."
+  },
+  {
+    "instruction": "هل يمكنني عرض مشروعي في المؤتمر التقني السنوي؟",
+    "input": "",
+    "output": "نعم، هناك جلسة مخصصة لمشاريع الطلاب. يمكنك تقديم اقتراح مشروعك على موقع الحدث قبل الموعد النهائي."
+  },
+  {
+    "instruction": "Is there parking available at the conference venue?",
+    "input": "",
+    "output": "Yes, there is ample parking available at the Main Auditorium. Parking details are available on the event website."
+  },
+  {
+    "instruction": "هل هناك مواقف سيارات متاحة في مكان المؤتمر؟",
+    "input": "",
+    "output": "نعم، هناك مواقف سيارات واسعة متاحة في القاعة الرئيسية. يمكنك العثور على تفاصيل المواقف على موقع الحدث."
+  },
+  {
+    "instruction": "Can I get a refund if I can't attend the conference?",
+    "input": "",
+    "output": "Since the conference is free, no refunds are applicable. However, you can cancel your registration to free up your spot."
+  },
+  {
+    "instruction": "هل يمكنني استرداد المال إذا لم أتمكن من حضور المؤتمر؟",
+    "input": "",
+    "output": "نظرًا لأن المؤتمر مجاني، لا يوجد استرداد للمال. ومع ذلك، يمكنك إلغاء تسجيلك لتحرير مكانك."
+  },
+  {
+    "instruction": "Are there any networking events during the conference?",
+    "input": "",
+    "output": "Yes, there are networking sessions scheduled throughout the conference. Check the agenda for more details."
+  },
+  {
+    "instruction": "هل هناك فعاليات للتواصل خلال المؤتمر؟",
+    "input": "",
+    "output": "نعم، هناك جلسات تواصل مقررة خلال المؤتمر. تحقق من الأجندة للمزيد من التفاصيل."
+  },
+  {
+    "instruction": "Can I access conference materials after the event?",
+    "input": "",
+    "output": "Yes, presentation slides and other materials will be available for download on the event website after the conference."
+  },
+  {
+    "instruction": "هل يمكنني الوصول إلى مواد المؤتمر بعد انتهاء الحدث؟",
+    "input": "",
+    "output": "نعم، ستكون شرائح العروض التقديمية والمواد الأخرى متاحة للتنزيل على موقع الحدث بعد انتهاء المؤتمر."
+  },
+  {
+    "instruction": "Is there a mobile app for the Annual Tech Conference?",
+    "input": "",
+    "output": "Yes, you can download the official conference app from the App Store or Google Play for updates and schedules."
+  },
+  {
+    "instruction": "هل هناك تطبيق جوال للمؤتمر التقني السنوي؟",
+    "input": "",
+    "output": "نعم، يمكنك تنزيل التطبيق الرسمي للمؤتمر من متجر التطبيقات أو Google Play للحصول على التحديثات والجداول الزمنية."
+  },
+  {
+    "instruction": "Can I share my conference experience on social media?",
+    "input": "",
+    "output": "Yes, you are encouraged to share your experience using the official event hashtag #TechConference2023."
+  },
+  {
+    "instruction": "هل يمكنني مشاركة تجربتي في المؤتمر على وسائل التواصل الاجتماعي؟",
+    "input": "",
+    "output": "نعم، نشجعك على مشاركة تجربتك باستخدام الهاشتاق الرسمي للحدث #TechConference2023."
+  },
+  {
+    "instruction": "Are there any discounts for group registrations?",
+    "input": "",
+    "output": "Since the conference is free, group discounts are not applicable. However, you can register your group together."
+  },
+  {
+    "instruction": "هل هناك خصومات لتسجيل المجموعات؟",
+    "input": "",
+    "output": "نظرًا لأن المؤتمر مجاني، لا توجد خصومات للمجموعات. ومع ذلك، يمكنك تسجيل مجموعتك معًا."
+  },
+  {
+    "instruction": "Can I change my registered session after signing up?",
+    "input": "",
+    "output": "Yes, you can modify your session preferences by visiting your registered events section on the website."
+  },
+  {
+    "instruction": "هل يمكنني تغيير الجلسة المسجلة بعد التسجيل؟",
+    "input": "",
+    "output": "نعم، يمكنك تعديل تفضيلات الجلسة عن طريق زيارة قسم الأحداث المسجلة على الموقع."
+  },
+  {
+    "instruction": "Will the conference be live-streamed?",
+    "input": "",
+    "output": "Yes, the keynote sessions will be live-streamed. You can find the link on the event website."
+  },
+  {
+    "instruction": "هل سيتم بث المؤتمر مباشرة؟",
+    "input": "",
+    "output": "نعم، سيتم بث الجلسات الرئيسية مباشرة. يمكنك العثور على الرابط على موقع الحدث."
+  },
+  {
+    "instruction": "Can I suggest a topic for next year's conference?",
+    "input": "",
+    "output": "Yes, you can submit your suggestions through the feedback form available on the event website."
+  },
+  {
+    "instruction": "هل يمكنني اقتراح موضوع لمؤتمر العام القادم؟",
+    "input": "",
+    "output": "نعم، يمكنك تقديم اقتراحاتك من خلال نموذج الملاحظات المتاح على موقع الحدث."
+  },
+  {
+    "instruction": "Are there any accommodations for international attendees?",
+    "input": "",
+    "output": "Yes, information about nearby hotels and accommodations is available on the event website."
+  },
+  {
+    "instruction": "هل هناك ترتيبات إقامة للحضور الدولي؟",
+    "input": "",
+    "output": "نعم، تتوفر معلومات عن الفنادق القريبة وترتيبات الإقامة على موقع الحدث."
+  },
+  {
+    "instruction": "Can I bring my laptop to the conference?",
+    "input": "",
+    "output": "Yes, you are encouraged to bring your laptop for workshops and networking sessions."
+  },
+  {
+    "instruction": "هل يمكنني إحضار جهاز اللابتوب الخاص بي إلى المؤتمر؟",
+    "input": "",
+    "output": "نعم، نشجعك على إحضار جهاز اللابتوب الخاص بك للورش وجلسات التواصل."
+  },
+  {
+    "instruction": "Is there a lost and found at the conference venue?",
+    "input": "",
+    "output": "Yes, you can contact the information desk at the Main Auditorium for lost and found inquiries."
+  },
+  {
+    "instruction": "هل هناك قسم المفقودات في مكان المؤتمر؟",
+    "input": "",
+    "output": "نعم، يمكنك الاتصال بمكتب المعلومات في القاعة الرئيسية للاستفسارات عن المفقودات."
+  },
+  {
+    "instruction": "Can I get a printed copy of the conference schedule?",
+    "input": "",
+    "output": "Yes, printed schedules will be available at the registration desk on the day of the event."
+  },
+  {
+    "instruction": "هل يمكنني الحصول على نسخة مطبوعة من جدول المؤتمر؟",
+    "input": "",
+    "output": "نعم، ستتوفر نسخ مطبوعة من الجدول الزمني في مكتب التسجيل في يوم الحدث."
+  },
+  {
+    "instruction": "Are there any restrictions on photography during the conference?",
+    "input": "",
+    "output": "Photography is allowed, but please avoid using flash during sessions to avoid disrupting speakers."
+  },
+  {
+    "instruction": "هل هناك قيود على التصوير خلال المؤتمر؟",
+    "input": "",
+    "output": "التصوير مسموح به، ولكن يرجى تجنب استخدام الفلاش خلال الجلسات لتجنب إزعاج المتحدثين."
+  },
+  {
+    "instruction": "Can I get a list of speakers before the conference?",
+    "input": "",
+    "output": "Yes, the list of speakers is available on the event website under the 'Speakers' section."
+  },
+  {
+    "instruction": "هل يمكنني الحصول على قائمة المتحدثين قبل المؤتمر؟",
+    "input": "",
+    "output": "نعم، تتوفر قائمة المتحدثين على موقع الحدث ضمن قسم 'المتحدثين'."
+  },
+  {
+    "instruction": "Is there a quiet room at the conference venue?",
+    "input": "",
+    "output": "Yes, a quiet room is available for attendees who need a break from the main event area."
+  },
+  {
+    "instruction": "هل هناك غرفة هادئة في مكان المؤتمر؟",
+    "input": "",
+    "output": "نعم، تتوفر غرفة هادئة للحضور الذين يحتاجون إلى استراحة من منطقة الحدث الرئيسية."
+  },
+  {
+    "instruction": "Can I get a map of the conference venue?",
+    "input": "",
+    "output": "Yes, a venue map is available on the event website and at the registration desk."
+  },
+  {
+    "instruction": "هل يمكنني الحصول على خريطة لمكان المؤتمر؟",
+    "input": "",
+    "output": "نعم، تتوفر خريطة المكان على موقع الحدث وفي مكتب التسجيل."
+  },
+  {
+    "instruction": "Are there any age restrictions for attending the conference?",
+    "input": "",
+    "output": "The conference is open to all ages, but some sessions may be more suitable for adults."
+  },
+  {
+    "instruction": "هل هناك قيود عمرية لحضور المؤتمر؟",
+    "input": "",
+    "output": "المؤتمر مفتوح لجميع الأعمار، ولكن بعض الجلسات قد تكون أكثر ملاءمة للبالغين."
+  },
+  {
+    "instruction": "Can I bring my pet to the conference?",
+    "input": "",
+    "output": "Pets are not allowed at the conference venue, except for service animals."
+  },
+  {
+    "instruction": "هل يمكنني إحضار حيواني الأليف إلى المؤتمر؟",
+    "input": "",
+    "output": "لا يُسمح بالحيوانات الأليفة في مكان المؤتمر، باستثناء الحيوانات المرافقة للأشخاص ذوي الإعاقة."
+  },
+  {
+    "instruction": "Is there Wi-Fi available at the conference?",
+    "input": "",
+    "output": "Yes, free Wi-Fi is available for all attendees. The network details will be provided at the event."
+  },
+  {
+    "instruction": "هل هناك خدمة Wi-Fi متاحة في المؤتمر؟",
+    "input": "",
+    "output": "نعم، تتوفر خدمة Wi-Fi مجانية لجميع الحضور. سيتم توفير تفاصيل الشبكة في الحدث."
+  },
+  {
+    "instruction": "Can I get a receipt for my registration?",
+    "input": "",
+    "output": "Since the conference is free, no payment receipts are issued. However, you can download a confirmation of your registration."
+  },
+  {
+    "instruction": "هل يمكنني الحصول على إيصال لتسجيلي؟",
+    "input": "",
+    "output": "نظرًا لأن المؤتمر مجاني، لا يتم إصدار إيصالات دفع. ومع ذلك، يمكنك تنزيل تأكيد التسجيل الخاص بك."
+  },
+  {
+    "instruction": "Are there any job opportunities at the conference?",
+    "input": "",
+    "output": "Yes, some companies may have recruitment booths at the conference. Check the event map for their locations."
+  },
+  {
+    "instruction": "هل هناك فرص عمل في المؤتمر؟",
+    "input": "",
+    "output": "نعم، قد يكون لدى بعض الشركات أجنحة توظيف في المؤتمر. تحقق من خريطة الحدث لمعرفة مواقعها."
+  },
+  {
+    "instruction": "Can I get a discount on conference merchandise?",
+    "input": "",
+    "output": "Discounts on merchandise may be available for early registrants. Check the event website for details."
+  },
+  {
+    "instruction": "هل يمكنني الحصول على خصم على منتجات المؤتمر؟",
+    "input": "",
+    "output": "قد تتوفر خصومات على المنتجات للمسجلين مبكرًا. تحقق من موقع الحدث للمزيد من التفاصيل."
+  },
+  {
+    "instruction": "Is there a shuttle service to the conference venue?",
+    "input": "",
+    "output": "Yes, a free shuttle service is available from designated pickup points. Check the event website for schedules."
+  },
+  {
+    "instruction": "هل هناك خدمة نقل إلى مكان المؤتمر؟",
+    "input": "",
+    "output": "نعم، تتوفر خدمة نقل مجانية من نقاط التجميع المحددة. تحقق من موقع الحدث لمعرفة الجداول الزمنية."
+  }
+]

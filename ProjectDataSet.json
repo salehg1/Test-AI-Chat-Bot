@@ -1,0 +1,1787 @@
+[
+  {
+    "instruction": "Are there any workshops during the Annual Tech Conference?",
+    "input": "",
+    "output": "Yes, there are several workshops scheduled during the conference. Check the event agenda for timings and topics. You can visit the event page for more details."
+  },
+  {
+    "instruction": "هل هناك ورش عمل خلال مؤتمر التكنولوجيا السنوي؟",
+    "input": "",
+    "output": "نعم، هناك العديد من ورش العمل المجدولة خلال المؤتمر. يمكنك الاطلاع على جدول الفعاليات لمعرفة التوقيتات والمواضيع. قم بزيارة صفحة الحدث لمزيد من التفاصيل."
+  },
+  {
+    "instruction": "How do I register for a department-specific workshop?",
+    "input": "",
+    "output": "To register for a department-specific workshop, you need to be logged in and belong to the same department as the workshop. Please visit the event registration page to check your eligibility."
+  },
+  {
+    "instruction": "كيف أسجل في ورشة عمل مخصصة لقسم معين؟",
+    "input": "",
+    "output": "للتسجيل في ورشة عمل مخصصة للقسم، يجب أن تكون مسجلاً وتابعاً لنفس القسم. يرجى زيارة صفحة التسجيل للتحقق من أهليتك."
+  },
+  {
+    "instruction": "Am I registered for the upcoming event?",
+    "input": "",
+    "output": "I can check your registration status. If you're logged in, I can guide you to the event page to confirm your registration."
+  },
+  {
+    "instruction": "هل أنا مسجل في الحدث القادم؟",
+    "input": "",
+    "output": "يمكنني التحقق من حالة تسجيلك. إذا كنت مسجلاً الدخول، يمكنني إرشادك إلى صفحة الحدث لتأكيد تسجيلك."
+  },
+  {
+    "instruction": "How do I mark my attendance at an event?",
+    "input": "",
+    "output": "You can mark your attendance by scanning the event barcode at the event venue. Once scanned, your attendance will be confirmed."
+  },
+  {
+    "instruction": "كيف أؤكد حضوري في الحدث؟",
+    "input": "",
+    "output": "يمكنك تأكيد حضورك عن طريق مسح رمز الحدث في مكان الفعالية. بمجرد المسح، سيتم تأكيد حضورك."
+  },
+  {
+    "instruction": "I forgot my password. What should I do?",
+    "input": "",
+    "output": "To reset your password, please visit the password reset page. You'll receive instructions on how to create a new password."
+  },
+  {
+    "instruction": "نسيت كلمة المرور. ماذا يجب أن أفعل؟",
+    "input": "",
+    "output": "لإعادة تعيين كلمة المرور، يرجى زيارة صفحة إعادة تعيين كلمة المرور. ستتلقى تعليمات حول كيفية إنشاء كلمة مرور جديدة."
+  },
+  {
+    "instruction": "I'm having trouble logging in. Can you help?",
+    "input": "",
+    "output": "I can help with troubleshooting. If you are unable to log in, please check your credentials or try resetting your password. For further assistance, please contact support."
+  },
+  {
+    "instruction": "أواجه مشكلة في تسجيل الدخول. هل يمكنك مساعدتي؟",
+    "input": "",
+    "output": "يمكنني مساعدتك في حل المشكلة. إذا كنت غير قادر على تسجيل الدخول، يرجى التحقق من بياناتك أو حاول إعادة تعيين كلمة المرور. للحصول على مساعدة إضافية، يرجى الاتصال بالدعم."
+  },
+  {
+    "instruction": "What happens if I don't attend the event I registered for?",
+    "input": "",
+    "output": "If you do not attend the event, your registration will be considered canceled. Make sure to attend the event to mark your presence."
+  },
+  {
+    "instruction": "ماذا يحدث إذا لم أحضر الحدث الذي سجلت فيه؟",
+    "input": "",
+    "output": "إذا لم تحضر الحدث، سيتم اعتبار تسجيلك ملغى. تأكد من حضور الحدث لتسجيل حضورك."
+  },
+  {
+    "instruction": "Are there any events with limited registration for specific majors?",
+    "input": "",
+    "output": "Yes, some workshops are limited to specific departments. You must be logged in and belong to the eligible department to register."
+  },
+  {
+    "instruction": "هل توجد ورش عمل محدودة التسجيل لأقسام معينة؟",
+    "input": "",
+    "output": "نعم، بعض ورش العمل محدودة لأقسام معينة. يجب أن تكون مسجلاً وتابعاً للقسم المؤهل للتسجيل."
+  },
+  {
+    "instruction": "How can I contact support if I have a registration issue?",
+    "input": "",
+    "output": "If you have a registration issue, please contact the support team via email or visit the support page for assistance."
+  },
+  {
+    "instruction": "كيف يمكنني الاتصال بالدعم إذا كانت لدي مشكلة في التسجيل؟",
+    "input": "",
+    "output": "إذا كانت لديك مشكلة في التسجيل، يرجى الاتصال بفريق الدعم عبر البريد الإلكتروني أو زيارة صفحة الدعم للحصول على المساعدة."
+  },
+  {
+    "instruction": "How do I know which events I am registered for?",
+    "input": "",
+    "output": "You can check your registration status by logging into your account and visiting the event registration page. You’ll find a list of events you are registered for."
+  },
+  {
+    "instruction": "كيف أعرف في أي من الفعاليات أنا مسجل؟",
+    "input": "",
+    "output": "يمكنك التحقق من حالة تسجيلك عن طريق تسجيل الدخول إلى حسابك وزيارة صفحة التسجيل. ستجد قائمة بالفعاليات التي تم تسجيلك فيها."
+  },
+  {
+    "instruction": "Can I cancel my event registration?",
+    "input": "",
+    "output": "Yes, you can cancel your registration through your account. Please visit the event page for cancellation instructions."
+  },
+  {
+    "instruction": "هل يمكنني إلغاء تسجيل مشاركتي في الحدث؟",
+    "input": "",
+    "output": "نعم، يمكنك إلغاء تسجيلك من خلال حسابك. يرجى زيارة صفحة الحدث للحصول على تعليمات الإلغاء."
+  },
+  {
+    "instruction": "Is there a way to view past events I attended?",
+    "input": "",
+    "output": "Currently, the system does not display past event attendance. However, you can view your registered events through your account."
+  },
+  {
+    "instruction": "هل يمكنني عرض الفعاليات السابقة التي حضرتها؟",
+    "input": "",
+    "output": "حالياً، لا يعرض النظام الحضور للفعاليات السابقة. ومع ذلك، يمكنك عرض الفعاليات التي تم تسجيلك فيها عبر حسابك."
+  },
+  {
+    "instruction": "How do I register for an event that requires specific department access?",
+    "input": "",
+    "output": "To register for a department-specific event, ensure you are logged in and belong to the required department. You’ll be able to register once you're eligible."
+  },
+  {
+    "instruction": "كيف أسجل في حدث يتطلب الوصول إلى قسم معين؟",
+    "input": "",
+    "output": "لتسجيل في حدث مخصص لقسم معين، تأكد من أنك مسجل دخولك وتابع للقسم المطلوب. يمكنك التسجيل بمجرد أن تكون مؤهلاً."
+  },
+  {
+    "instruction": "Can I register for multiple events at once?",
+    "input": "",
+    "output": "Yes, you can register for multiple events, as long as you meet the event requirements. Simply visit the registration page and select the events you wish to attend."
+  },
+  {
+    "instruction": "هل يمكنني التسجيل في عدة فعاليات في وقت واحد؟",
+    "input": "",
+    "output": "نعم، يمكنك التسجيل في عدة فعاليات طالما أنك تستوفي متطلبات الفعالية. فقط قم بزيارة صفحة التسجيل واختر الفعاليات التي ترغب في حضورها."
+  },
+  {
+    "instruction": "What should I do if I cannot find the event I want to attend?",
+    "input": "",
+    "output": "If you can’t find the event, try using the search feature on the event page. If the event is not listed, it may be due to restrictions based on department or eligibility."
+  },
+  {
+    "instruction": "ماذا يجب أن أفعل إذا لم أتمكن من العثور على الحدث الذي أرغب في حضوره؟",
+    "input": "",
+    "output": "إذا لم تتمكن من العثور على الحدث، جرب استخدام ميزة البحث في صفحة الفعاليات. إذا لم يكن الحدث مدرجًا، فقد يكون بسبب قيود معينة تتعلق بالقسم أو الأهلية."
+  },
+  {
+    "instruction": "Are event changes or cancellations updated on the event page?",
+    "input": "",
+    "output": "Yes, if there are any updates or cancellations, they will be reflected on the event page. Make sure to check the page regularly for any changes."
+  },
+  {
+    "instruction": "هل يتم تحديث التغييرات أو الإلغاءات على صفحة الحدث؟",
+    "input": "",
+    "output": "نعم، إذا كانت هناك أي تحديثات أو إلغاءات، فسيتم عكسها على صفحة الحدث. تأكد من زيارة الصفحة بانتظام للتحقق من أي تغييرات."
+  },
+  {
+    "instruction": "How can I contact the event organizers?",
+    "input": "",
+    "output": "You can contact the event organizers through the contact details provided on the event page. Look for the organizer's email or phone number."
+  },
+  {
+    "instruction": "كيف يمكنني الاتصال بمنظمي الحدث؟",
+    "input": "",
+    "output": "يمكنك الاتصال بمنظمي الحدث من خلال تفاصيل الاتصال الموجودة على صفحة الحدث. ابحث عن بريد المنظم الإلكتروني أو رقم الهاتف."
+  },
+  {
+    "instruction": "What happens if the event I registered for is canceled?",
+    "input": "",
+    "output": "If the event is canceled, you will be notified via the app or email. Please check your notifications for further updates."
+  },
+  {
+    "instruction": "ماذا يحدث إذا تم إلغاء الحدث الذي سجلت فيه؟",
+    "input": "",
+    "output": "إذا تم إلغاء الحدث، سيتم إعلامك عبر التطبيق أو البريد الإلكتروني. يرجى التحقق من إشعاراتك لمزيد من التحديثات."
+  },
+  {
+    "instruction": "Can I attend an event if I am not registered?",
+    "input": "",
+    "output": "In most cases, you need to be registered to attend. However, if the event is open to all, you may be able to join without registration. Check the event details for more information."
+  },
+  {
+    "instruction": "هل يمكنني حضور الحدث إذا لم أكن مسجلاً؟",
+    "input": "",
+    "output": "في معظم الحالات، يجب أن تكون مسجلاً للحضور. ومع ذلك، إذا كان الحدث مفتوحًا للجميع، قد تتمكن من الانضمام دون التسجيل. تحقق من تفاصيل الحدث لمزيد من المعلومات."
+  },
+  {
+    "instruction": "How do I know if an event requires prior registration?",
+    "input": "",
+    "output": "Events that require prior registration will indicate this in their description. Check the event details for the registration requirements."
+  },
+  {
+    "instruction": "كيف أعرف إذا كان الحدث يتطلب التسجيل المسبق؟",
+    "input": "",
+    "output": "سيتم الإشارة إلى الأحداث التي تتطلب التسجيل المسبق في الوصف. تحقق من تفاصيل الحدث لمعرفة متطلبات التسجيل."
+  },
+  {
+    "instruction": "Is there a way to get reminders for events I registered for?",
+    "input": "",
+    "output": "Yes, once you register for an event, you can set reminders within your account settings. You'll receive notifications before the event starts."
+  },
+  {
+    "instruction": "هل هناك طريقة للحصول على تذكيرات للفعاليات التي سجلت فيها؟",
+    "input": "",
+    "output": "نعم، بمجرد أن تسجل في حدث، يمكنك ضبط التذكيرات من خلال إعدادات حسابك. ستتلقى إشعارات قبل بدء الحدث."
+  },
+  {
+    "instruction": "How can I get more information about a specific event?",
+    "input": "",
+    "output": "For more information about a specific event, please visit the event page. All details, including the agenda, speakers, and location, are provided there."
+  },
+  {
+    "instruction": "كيف يمكنني الحصول على مزيد من المعلومات حول حدث معين؟",
+    "input": "",
+    "output": "لمزيد من المعلومات حول حدث معين، يرجى زيارة صفحة الحدث. جميع التفاصيل، بما في ذلك الجدول الزمني والمتحدثين والموقع، متوفرة هناك."
+  },
+  {
+    "instruction": "Can I still register for an event if it's almost full?",
+    "input": "",
+    "output": "If an event is almost full, you may still be able to register depending on availability. Visit the registration page to check the status of the event."
+  },
+  {
+    "instruction": "هل يمكنني التسجيل في حدث إذا كان شبه ممتلئ؟",
+    "input": "",
+    "output": "إذا كان الحدث شبه ممتلئ، قد تتمكن من التسجيل حسب التوفر. قم بزيارة صفحة التسجيل للتحقق من حالة الحدث."
+  },
+  {
+    "instruction": "How can I get an update if the event is rescheduled?",
+    "input": "",
+    "output": "If the event is rescheduled, you will be notified via the app or email. Make sure to check your notifications for updates."
+  },
+  {
+    "instruction": "كيف يمكنني الحصول على تحديث إذا تم إعادة جدولة الحدث؟",
+    "input": "",
+    "output": "إذا تم إعادة جدولة الحدث، سيتم إعلامك عبر التطبيق أو البريد الإلكتروني. تأكد من التحقق من إشعاراتك للحصول على التحديثات."
+  },
+  {
+    "instruction": "Can I attend a department-specific event if I am not from that department?",
+    "input": "",
+    "output": "No, department-specific events are only available to students from the same department. You will need to register for events available to all students."
+  },
+  {
+    "instruction": "هل يمكنني حضور حدث مخصص لقسم معين إذا لم أكن من ذلك القسم؟",
+    "input": "",
+    "output": "لا، الأحداث المخصصة للأقسام متاحة فقط للطلاب من نفس القسم. يجب عليك التسجيل في الأحداث المتاحة لجميع الطلاب."
+  },
+  {
+    "instruction": "How can I confirm my attendance after scanning the barcode?",
+    "input": "",
+    "output": "Once you scan the event barcode at the venue, your attendance will be automatically confirmed. You can check your status on the event page afterward."
+  },
+  {
+    "instruction": "كيف يمكنني تأكيد حضوري بعد مسح الرمز الشريطي؟",
+    "input": "",
+    "output": "بمجرد مسح رمز الحدث في المكان، سيتم تأكيد حضورك تلقائيًا. يمكنك التحقق من حالتك على صفحة الحدث بعد ذلك."
+  },
+  {
+    "instruction": "What should I do if I registered for an event but can't attend?",
+    "input": "",
+    "output": "If you're unable to attend, please visit the event page to cancel your registration. If you can't cancel it yourself, contact support for assistance."
+  },
+  {
+    "instruction": "ماذا يجب أن أفعل إذا سجلت في حدث ولكن لا أستطيع الحضور؟",
+    "input": "",
+    "output": "إذا لم تتمكن من الحضور، يرجى زيارة صفحة الحدث لإلغاء تسجيلك. إذا لم تتمكن من إلغاء التسجيل بنفسك، تواصل مع الدعم للحصول على المساعدة."
+  },
+  {
+    "instruction": "Are all events visible to everyone, or some are restricted?",
+    "input": "",
+    "output": "Some events are restricted based on departments. If you're logged in and belong to the relevant department, you’ll be able to see and register for those events."
+  },
+  {
+    "instruction": "هل جميع الفعاليات مرئية للجميع أم أن بعضها مقيد؟",
+    "input": "",
+    "output": "بعض الفعاليات مقيدة حسب الأقسام. إذا كنت مسجلاً الدخول وتنتمي إلى القسم المعني، يمكنك رؤية تلك الفعاليات والتسجيل فيها."
+  },
+  {
+    "instruction": "Can I access the event details without registering?",
+    "input": "",
+    "output": "Yes, you can view the event details without registering. However, registration is required if you wish to attend the event."
+  },
+  {
+    "instruction": "هل يمكنني الوصول إلى تفاصيل الحدث دون التسجيل؟",
+    "input": "",
+    "output": "نعم، يمكنك عرض تفاصيل الحدث دون التسجيل. ومع ذلك، يتطلب التسجيل إذا كنت ترغب في حضور الحدث."
+  },
+  {
+    "instruction": "How can I make sure I don't miss any important updates about my events?",
+    "input": "",
+    "output": "Make sure to enable notifications for event updates. You can also check your event page regularly for any changes or cancellations."
+  },
+  {
+    "instruction": "كيف يمكنني التأكد من أنني لن أفوت أي تحديثات مهمة عن فعالياتي؟",
+    "input": "",
+    "output": "تأكد من تمكين الإشعارات لتحديثات الفعاليات. يمكنك أيضًا التحقق من صفحة الحدث بانتظام لمعرفة أي تغييرات أو إلغاءات."
+  },
+  {
+    "instruction": "What happens if I missed an event I registered for?",
+    "input": "",
+    "output": "If you miss an event, your registration will be marked as canceled, and you will not receive attendance credit."
+  },
+  {
+    "instruction": "ماذا يحدث إذا فاتني حدث سجلت فيه؟",
+    "input": "",
+    "output": "إذا فاتك حدث، سيتم اعتبار تسجيلك ملغى، ولن تحصل على اعتماد الحضور."
+  },
+  {
+    "instruction": "How do I know if an event is open for registration?",
+    "input": "",
+    "output": "Events that are open for registration will have a registration button on their event page. Check the page for the registration status."
+  },
+  {
+    "instruction": "كيف أعرف إذا كان الحدث مفتوحًا للتسجيل؟",
+    "input": "",
+    "output": "الفعاليات المفتوحة للتسجيل سيكون لديها زر التسجيل على صفحة الحدث. تحقق من الصفحة لمعرفة حالة التسجيل."
+  },
+  {
+    "instruction": "Can I attend an event without being logged in?",
+    "input": "",
+    "output": "You need to be logged in to register for most events. However, you can still view the event details without logging in."
+  },
+  {
+    "instruction": "هل يمكنني حضور حدث دون تسجيل الدخول؟",
+    "input": "",
+    "output": "يجب أن تكون مسجلاً الدخول للتسجيل في معظم الفعاليات. ومع ذلك، يمكنك عرض تفاصيل الحدث دون تسجيل الدخول."
+  },
+  {
+    "instruction": "Is there a limit to the number of events I can register for?",
+    "input": "",
+    "output": "There is no set limit to the number of events you can register for. However, some events may have their own registration limits. Be sure to check the event page for any such restrictions."
+  },
+  {
+    "instruction": "هل يوجد حد لعدد الفعاليات التي يمكنني التسجيل فيها؟",
+    "input": "",
+    "output": "لا يوجد حد محدد لعدد الفعاليات التي يمكنك التسجيل فيها. ومع ذلك، قد يكون لبعض الفعاليات حدود خاصة للتسجيل. تأكد من التحقق من صفحة الحدث لمعرفة أي قيود."
+  },
+  {
+    "instruction": "How can I find events for a specific department?",
+    "input": "",
+    "output": "You can filter events by department through the event search feature. Make sure you are logged in if the event is department-specific."
+  },
+  {
+    "instruction": "كيف يمكنني العثور على الفعاليات الخاصة بقسم معين؟",
+    "input": "",
+    "output": "يمكنك تصفية الفعاليات حسب القسم من خلال ميزة البحث عن الفعاليات. تأكد من أنك مسجل الدخول إذا كان الحدث مخصصًا للقسم."
+  },
+  {
+    "instruction": "How do I unregister from an event?",
+    "input": "",
+    "output": "To unregister from an event, visit the event page while logged into your account. You'll find an option to cancel your registration there."
+  },
+  {
+    "instruction": "كيف يمكنني إلغاء التسجيل من حدث؟",
+    "input": "",
+    "output": "لإلغاء التسجيل من حدث، قم بزيارة صفحة الحدث أثناء تسجيل الدخول إلى حسابك. ستجد خيارًا لإلغاء التسجيل هناك."
+  },
+  {
+    "instruction": "Can I change my registration after signing up for an event?",
+    "input": "",
+    "output": "Once you register for an event, changes to your registration are not possible. If you need to unregister, you can cancel your registration and then register again."
+  },
+  {
+    "instruction": "هل يمكنني تغيير تسجيلي بعد التسجيل في الحدث؟",
+    "input": "",
+    "output": "بمجرد أن تسجل في حدث، لا يمكن تغيير التسجيل. إذا كنت بحاجة لإلغاء التسجيل، يمكنك إلغاء التسجيل ثم التسجيل مرة أخرى."
+  },
+  {
+    "instruction": "Will the chatbot notify me if an event I’m registered for is canceled?",
+    "input": "",
+    "output": "Yes, the chatbot will notify you if an event you are registered for is canceled. Be sure to check your notifications for the update."
+  },
+  {
+    "instruction": "هل سيعلمك الروبوت إذا تم إلغاء الحدث الذي سجلت فيه؟",
+    "input": "",
+    "output": "نعم، سيعلمك الروبوت إذا تم إلغاء الحدث الذي سجلت فيه. تأكد من التحقق من إشعاراتك للحصول على التحديث."
+  },
+  {
+    "instruction": "What should I do if my event registration is not showing up?",
+    "input": "",
+    "output": "If your registration is not showing up, try logging out and logging back in. If the issue persists, please contact support for assistance."
+  },
+  {
+    "instruction": "ماذا يجب أن أفعل إذا لم يظهر تسجيلي في الحدث؟",
+    "input": "",
+    "output": "إذا لم يظهر تسجيلك في الحدث، جرب تسجيل الخروج ثم تسجيل الدخول مرة أخرى. إذا استمرت المشكلة، يرجى التواصل مع الدعم للحصول على المساعدة."
+  },
+  {
+    "instruction": "How can I check the event schedule?",
+    "input": "",
+    "output": "The event schedule is available on the event page. You can find the timings, topics, and speakers listed there."
+  },
+  {
+    "instruction": "كيف يمكنني التحقق من جدول الحدث؟",
+    "input": "",
+    "output": "جدول الحدث متاح على صفحة الحدث. يمكنك العثور على الأوقات والمواضيع والمتحدثين المدرجين هناك."
+  },
+  {
+    "instruction": "Can I attend an event if I’m not from the university?",
+    "input": "",
+    "output": "Most events are only open to university students. However, some events may be open to the public. Check the event details to find out if this applies."
+  },
+  {
+    "instruction": "هل يمكنني حضور حدث إذا لم أكن من الجامعة؟",
+    "input": "",
+    "output": "معظم الفعاليات مفتوحة فقط لطلاب الجامعة. ومع ذلك، قد تكون بعض الفعاليات مفتوحة للجمهور. تحقق من تفاصيل الحدث لمعرفة إذا كان ذلك ينطبق."
+  },
+  {
+    "instruction": "What can I do if I have trouble registering for an event?",
+    "input": "",
+    "output": "If you're having trouble registering for an event, make sure you're logged in. If the problem persists, check the event requirements or contact support for assistance."
+  },
+  {
+    "instruction": "ماذا يمكنني أن أفعل إذا كنت أواجه صعوبة في التسجيل لحدث؟",
+    "input": "",
+    "output": "إذا كنت تواجه صعوبة في التسجيل لحدث، تأكد من أنك مسجل الدخول. إذا استمرت المشكلة، تحقق من متطلبات الحدث أو تواصل مع الدعم للحصول على المساعدة."
+  },
+  {
+    "instruction": "What is the deadline for event registration?",
+    "input": "",
+    "output": "The registration deadline for each event is listed on the event page. Be sure to check the page for the specific deadline for the event you’re interested in."
+  },
+  {
+    "instruction": "ما هو الموعد النهائي للتسجيل في الحدث؟",
+    "input": "",
+    "output": "يتم إدراج الموعد النهائي للتسجيل في كل حدث على صفحة الحدث. تأكد من التحقق من الصفحة للحصول على الموعد النهائي المحدد للحدث الذي تهتم به."
+  },
+  {
+    "instruction": "How can I ensure my registration for an event is confirmed?",
+    "input": "",
+    "output": "You will receive a confirmation notification once your registration is successful. If you don't receive a confirmation, check the event page to ensure your registration went through."
+  },
+  {
+    "instruction": "كيف يمكنني التأكد من تأكيد تسجيلي في الحدث؟",
+    "input": "",
+    "output": "ستتلقى إشعار تأكيد بمجرد أن يتم تسجيلك بنجاح. إذا لم تتلق إشعار تأكيد، تحقق من صفحة الحدث للتأكد من أن تسجيلك قد تم بنجاح."
+  },
+  {
+    "instruction": "Can I attend a different department's workshop?",
+    "input": "",
+    "output": "No, you can only attend department-specific workshops if you're from the same department. Other workshops are open to all students."
+  },
+  {
+    "instruction": "هل يمكنني حضور ورشة عمل من قسم آخر؟",
+    "input": "",
+    "output": "لا، يمكنك حضور ورش العمل الخاصة بالأقسام فقط إذا كنت من نفس القسم. أما الورش الأخرى فهي مفتوحة لجميع الطلاب."
+  },
+  {
+    "instruction": "How do I know if an event has reached its maximum capacity?",
+    "input": "",
+    "output": "If an event has reached its maximum capacity, the registration option will no longer be available. You can check the event page for the current registration status."
+  },
+  {
+    "instruction": "كيف أعرف إذا كان الحدث قد وصل إلى الحد الأقصى من السعة؟",
+    "input": "",
+    "output": "إذا وصل الحدث إلى الحد الأقصى من السعة، فلن يكون خيار التسجيل متاحًا بعد الآن. يمكنك التحقق من صفحة الحدث لمعرفة حالة التسجيل الحالية."
+  },
+  {
+    "instruction": "How can I check if I’ve already registered for an event?",
+    "input": "",
+    "output": "You can check your registration status by visiting your account’s event registration page. It will show all the events you have successfully registered for."
+  },
+  {
+    "instruction": "كيف يمكنني التحقق مما إذا كنت قد سجلت في الحدث؟",
+    "input": "",
+    "output": "يمكنك التحقق من حالة تسجيلك بزيارة صفحة تسجيل الفعاليات في حسابك. ستعرض جميع الفعاليات التي تم تسجيلك فيها بنجاح."
+  },
+  {
+    "instruction": "Can I attend multiple workshops during the same event?",
+    "input": "",
+    "output": "Yes, as long as there are no time conflicts, you can attend multiple workshops during the same event. Be sure to check the event schedule to plan your participation."
+  },
+  {
+    "instruction": "هل يمكنني حضور ورش عمل متعددة خلال نفس الحدث؟",
+    "input": "",
+    "output": "نعم، طالما لا توجد تعارضات في الأوقات، يمكنك حضور ورش عمل متعددة خلال نفس الحدث. تأكد من التحقق من جدول الحدث للتخطيط لمشاركتك."
+  },
+  {
+    "instruction": "How can I find out more details about a specific event?",
+    "input": "",
+    "output": "You can find more details about a specific event by visiting the event page. The page will provide information such as the description, schedule, speaker details, and location."
+  },
+  {
+    "instruction": "كيف يمكنني معرفة المزيد من التفاصيل حول حدث معين؟",
+    "input": "",
+    "output": "يمكنك العثور على المزيد من التفاصيل حول الحدث المحدد من خلال زيارة صفحة الحدث. ستوفر الصفحة معلومات مثل الوصف، الجدول الزمني، تفاصيل المتحدثين، والموقع."
+  },
+  {
+    "instruction": "What should I do if I missed the registration deadline?",
+    "input": "",
+    "output": "If you missed the registration deadline, unfortunately, you will not be able to register for the event. However, you can keep an eye on future events by checking the event calendar."
+  },
+  {
+    "instruction": "ماذا يجب أن أفعل إذا فاتني موعد التسجيل؟",
+    "input": "",
+    "output": "إذا فاتك موعد التسجيل، للأسف لن تتمكن من التسجيل في الحدث. ومع ذلك، يمكنك متابعة الأحداث المستقبلية من خلال التحقق من تقويم الفعاليات."
+  },
+  {
+    "instruction": "Can I register for an event if it is fully booked?",
+    "input": "",
+    "output": "No, once an event is fully booked, you will no longer be able to register for it. You can check if spaces become available closer to the event date."
+  },
+  {
+    "instruction": "هل يمكنني التسجيل في حدث إذا كان محجوزًا بالكامل؟",
+    "input": "",
+    "output": "لا، بمجرد أن يصبح الحدث محجوزًا بالكامل، لن تتمكن من التسجيل فيه. يمكنك التحقق مما إذا كانت هناك أماكن شاغرة مع اقتراب موعد الحدث."
+  },
+  {
+    "instruction": "How can I get an attendance certificate for an event?",
+    "input": "",
+    "output": "After attending the event and confirming your attendance through barcode scanning, you may be eligible to receive an attendance certificate. Check the event details for further information."
+  },
+  {
+    "instruction": "كيف يمكنني الحصول على شهادة حضور لحدث؟",
+    "input": "",
+    "output": "بعد حضور الحدث وتأكيد حضورك من خلال مسح الرمز الشريطي، قد تكون مؤهلاً للحصول على شهادة حضور. تحقق من تفاصيل الحدث لمزيد من المعلومات."
+  },
+  {
+    "instruction": "What happens if I arrive late to an event?",
+    "input": "",
+    "output": "If you arrive late, you can still attend the event, but you may miss some of the content. Ensure to arrive on time for future events to fully benefit."
+  },
+  {
+    "instruction": "ماذا يحدث إذا وصلت متأخرًا إلى الحدث؟",
+    "input": "",
+    "output": "إذا وصلت متأخرًا، يمكنك حضور الحدث ولكن قد تفوت بعض المحتوى. تأكد من الوصول في الوقت المحدد للأحداث المستقبلية للاستفادة بالكامل."
+  },
+  {
+    "instruction": "How can I contact the event organizer?",
+    "input": "",
+    "output": "Event organizer contact information is available on the event page. You can use the provided contact details to get in touch for further inquiries."
+  },
+  {
+    "instruction": "كيف يمكنني الاتصال بمنظم الحدث؟",
+    "input": "",
+    "output": "معلومات الاتصال بمنظم الحدث متوفرة على صفحة الحدث. يمكنك استخدام التفاصيل المقدمة للتواصل معهم للاستفسارات الأخرى."
+  },
+  {
+    "instruction": "Can I receive event updates via email?",
+    "input": "",
+    "output": "Event updates are typically sent via app notifications. However, you can check the event page for any changes or cancellations."
+  },
+  {
+    "instruction": "هل يمكنني تلقي تحديثات الفعاليات عبر البريد الإلكتروني؟",
+    "input": "",
+    "output": "عادةً ما يتم إرسال تحديثات الفعاليات عبر إشعارات التطبيق. ومع ذلك، يمكنك التحقق من صفحة الحدث لأي تغييرات أو إلغاءات."
+  },
+  {
+    "instruction": "What do I do if I forget my password?",
+    "input": "",
+    "output": "If you forget your password, you can visit the 'Forgot Password' page to reset it. Follow the instructions provided there."
+  },
+  {
+    "instruction": "ماذا أفعل إذا نسيت كلمة المرور الخاصة بي؟",
+    "input": "",
+    "output": "إذا نسيت كلمة المرور الخاصة بك، يمكنك زيارة صفحة 'نسيت كلمة المرور' لإعادة تعيينها. اتبع التعليمات المقدمة هناك."
+  },
+  {
+    "instruction": "Can I add an event to my personal calendar?",
+    "input": "",
+    "output": "Yes, you can add events to your personal calendar by selecting the 'Add to Calendar' option available on the event page."
+  },
+  {
+    "instruction": "هل يمكنني إضافة حدث إلى تقويمي الشخصي؟",
+    "input": "",
+    "output": "نعم، يمكنك إضافة الفعاليات إلى تقويمك الشخصي عن طريق اختيار خيار 'إضافة إلى التقويم' المتاح على صفحة الحدث."
+  },
+  {
+    "instruction": "Can I share event details with others?",
+    "input": "",
+    "output": "Yes, you can share the event details by copying the event link and sending it to others via email or messaging apps."
+  },
+  {
+    "instruction": "هل يمكنني مشاركة تفاصيل الحدث مع الآخرين؟",
+    "input": "",
+    "output": "نعم، يمكنك مشاركة تفاصيل الحدث عن طريق نسخ رابط الحدث وإرساله للآخرين عبر البريد الإلكتروني أو تطبيقات الرسائل."
+  },
+  {
+    "instruction": "How can I change the language of the event website?",
+    "input": "",
+    "output": "You can change the language of the website by selecting your preferred language from the language dropdown menu at the top of the page."
+  },
+  {
+    "instruction": "كيف يمكنني تغيير لغة موقع الحدث؟",
+    "input": "",
+    "output": "يمكنك تغيير لغة الموقع من خلال اختيار لغتك المفضلة من قائمة اللغة الموجودة في أعلى الصفحة."
+  },
+  {
+    "instruction": "Can I register for a recurring event like the monthly talks?",
+    "input": "",
+    "output": "Yes, you can register for recurring events such as monthly talks. These events will have a registration option available each time they are held."
+  },
+  {
+    "instruction": "هل يمكنني التسجيل في حدث متكرر مثل المحادثات الشهرية؟",
+    "input": "",
+    "output": "نعم، يمكنك التسجيل في الأحداث المتكررة مثل المحادثات الشهرية. سيكون هناك خيار التسجيل متاحًا في كل مرة يتم فيها عقدها."
+  },
+  {
+    "instruction": "How do I know if an event has been rescheduled?",
+    "input": "",
+    "output": "If an event is rescheduled, the new event date will be displayed on the event page, and you'll receive an update via notification."
+  },
+  {
+    "instruction": "كيف يمكنني معرفة إذا تم إعادة جدولة الحدث؟",
+    "input": "",
+    "output": "إذا تم إعادة جدولة الحدث، ستظهر تاريخ الحدث الجديد على صفحة الحدث، وستتلقى تحديثًا عبر الإشعار."
+  },
+  {
+    "instruction": "How can I cancel my registration for an event?",
+    "input": "",
+    "output": "You can cancel your registration by visiting the event page. If you're logged in and registered for the event, there will be an option to cancel your registration."
+  },
+  {
+    "instruction": "كيف يمكنني إلغاء تسجيلي في حدث؟",
+    "input": "",
+    "output": "يمكنك إلغاء تسجيلك من خلال زيارة صفحة الحدث. إذا كنت مسجلاً في الحدث وقمت بتسجيل الدخول، سيكون هناك خيار لإلغاء التسجيل."
+  },
+  {
+    "instruction": "Is there a waiting list for events that are fully booked?",
+    "input": "",
+    "output": "Currently, there is no waiting list for fully booked events. You can check the event page to see if any spots open up as the event date approaches."
+  },
+  {
+    "instruction": "هل هناك قائمة انتظار للأحداث التي تم حجزها بالكامل؟",
+    "input": "",
+    "output": "حاليًا، لا توجد قائمة انتظار للأحداث التي تم حجزها بالكامل. يمكنك التحقق من صفحة الحدث لمعرفة ما إذا كانت هناك أماكن شاغرة مع اقتراب موعد الحدث."
+  },
+  {
+    "instruction": "What information do I need to register for an event?",
+    "input": "",
+    "output": "To register for an event, you'll need to be logged in with a student account. Once logged in, you can select the event and register directly."
+  },
+  {
+    "instruction": "ما هي المعلومات التي أحتاجها للتسجيل في حدث؟",
+    "input": "",
+    "output": "للتسجيل في حدث، يجب أن تكون قد سجلت دخولك بحساب الطالب. بعد تسجيل الدخول، يمكنك اختيار الحدث والتسجيل مباشرة."
+  },
+  {
+    "instruction": "Can I register for multiple events at the same time?",
+    "input": "",
+    "output": "Yes, you can register for multiple events as long as the events don't overlap. Make sure to check the event schedules to avoid any timing conflicts."
+  },
+  {
+    "instruction": "هل يمكنني التسجيل في عدة أحداث في نفس الوقت؟",
+    "input": "",
+    "output": "نعم، يمكنك التسجيل في عدة أحداث طالما أن الفعاليات لا تتداخل. تأكد من التحقق من جداول الفعاليات لتجنب أي تعارض في الأوقات."
+  },
+  {
+    "instruction": "How can I check if I’m registered for an event?",
+    "input": "",
+    "output": "To check if you're registered for an event, you can visit the event page while logged in. If you're registered, it will show your registration status."
+  },
+  {
+    "instruction": "كيف يمكنني التحقق إذا كنت مسجلًا في حدث؟",
+    "input": "",
+    "output": "للتحقق مما إذا كنت مسجلًا في حدث، يمكنك زيارة صفحة الحدث أثناء تسجيل الدخول. إذا كنت مسجلًا، سيظهر حالتك في التسجيل."
+  },
+  {
+    "instruction": "What should I do if I can't find the event I'm looking for?",
+    "input": "",
+    "output": "If you can't find an event, try searching for it by its name, category, or keyword. If you're still unable to find it, make sure the event is available to your department."
+  },
+  {
+    "instruction": "ماذا يجب أن أفعل إذا لم أتمكن من العثور على الحدث الذي أبحث عنه؟",
+    "input": "",
+    "output": "إذا لم تتمكن من العثور على الحدث، حاول البحث عنه باستخدام اسمه أو فئته أو كلمة مفتاحية. إذا كنت لا تزال غير قادر على العثور عليه، تأكد من أن الحدث متاح لقسمك."
+  },
+  {
+    "instruction": "Tell me about the event Hack the Future.",
+    "input": "",
+    "output": "Hack the Future is a Computer Science event taking place at the main building at 8 AM."
+  },
+  {
+    "instruction": "What is A Code Quest?",
+    "input": "",
+    "output": "A Code Quest is a Computer Science event happening in the main building at 8 AM."
+  },
+  {
+    "instruction": "What is the Tech Talks event about?",
+    "input": "",
+    "output": "Tech Talks is a Computer Science event held at the main building at 8 AM."
+  },
+  {
+    "instruction": "Can you tell me about the activity Tech Carnival?",
+    "input": "",
+    "output": "Tech Carnival is an activity for all majors at the main building starting at 8 AM."
+  },
+  {
+    "instruction": "What's the Coding Skills activity?",
+    "input": "",
+    "output": "Coding Skills is an activity open to all majors, taking place in the main building at 8 AM."
+  },
+  {
+    "instruction": "What is the Mind Games activity?",
+    "input": "",
+    "output": "Mind Games is an activity for all majors at the main building, starting at 8 AM."
+  },
+  {
+    "instruction": "What is the Talent Spark college event?",
+    "input": "",
+    "output": "Talent Spark is a college-wide event for all majors held in the main building at 8 AM."
+  },
+  {
+    "instruction": "When is Innovate Week happening?",
+    "input": "",
+    "output": "Innovate Week is a college event for all majors scheduled in the main building at 8 AM."
+  },
+  {
+    "instruction": "What is Skill Up Day?",
+    "input": "",
+    "output": "Skill Up Day is a college event open to all majors, taking place in the main building at 8 AM."
+  },
+  {
+    "instruction": "How can I reset my password if I've forgotten it?",
+    "input": "",
+    "output": "If you've forgotten your password, you can visit the 'Forgot Password' page to reset it. Follow the instructions provided there to regain access to your account."
+  },
+  {
+    "instruction": "كيف يمكنني إعادة تعيين كلمة المرور إذا نسيتها؟",
+    "input": "",
+    "output": "إذا نسيت كلمة المرور الخاصة بك، يمكنك زيارة صفحة 'نسيت كلمة المرور' لإعادة تعيينها. اتبع التعليمات المقدمة هناك لاستعادة الوصول إلى حسابك."
+  },
+  {
+    "instruction": "What happens if I don’t attend the event I registered for?",
+    "input": "",
+    "output": "If you do not attend the event, you will be marked as unattended. The event will count as canceled or missed in your registration history."
+  },
+  {
+    "instruction": "ماذا يحدث إذا لم أحضر الحدث الذي سجلت فيه؟",
+    "input": "",
+    "output": "إذا لم تحضر الحدث، سيتم تسجيلك على أنك غائب. سيتم احتساب الحدث على أنه ملغى أو مفقود في سجل تسجيلاتك."
+  },
+  {
+    "instruction": "Can I modify my registration after signing up for an event?",
+    "input": "",
+    "output": "Currently, you cannot modify your registration once you have signed up for an event. If you need to cancel or change, please use the available options on the event page."
+  },
+  {
+    "instruction": "Are there any workshops during the Annual Tech Conference?",
+    "input": "",
+    "output": "Yes, there are several workshops scheduled during the conference. Check the event agenda for timings and topics. You can visit the event page for more details."
+  },
+  {
+    "instruction": "هل هناك ورش عمل خلال مؤتمر التكنولوجيا السنوي؟",
+    "input": "",
+    "output": "نعم، هناك العديد من ورش العمل المجدولة خلال المؤتمر. يمكنك الاطلاع على جدول الفعاليات لمعرفة التوقيتات والمواضيع. قم بزيارة صفحة الحدث لمزيد من التفاصيل."
+  },
+  {
+    "instruction": "How do I register for a department-specific workshop?",
+    "input": "",
+    "output": "To register for a department-specific workshop, you need to be logged in and belong to the same department as the workshop. Please visit the event registration page to check your eligibility."
+  },
+  {
+    "instruction": "كيف أسجل في ورشة عمل مخصصة لقسم معين؟",
+    "input": "",
+    "output": "للتسجيل في ورشة عمل مخصصة للقسم، يجب أن تكون مسجلاً وتابعاً لنفس القسم. يرجى زيارة صفحة التسجيل للتحقق من أهليتك."
+  },
+  {
+    "instruction": "Am I registered for the upcoming event?",
+    "input": "",
+    "output": "I can check your registration status. If you're logged in, I can guide you to the event page to confirm your registration."
+  },
+  {
+    "instruction": "هل أنا مسجل في الحدث القادم؟",
+    "input": "",
+    "output": "يمكنني التحقق من حالة تسجيلك. إذا كنت مسجلاً الدخول، يمكنني إرشادك إلى صفحة الحدث لتأكيد تسجيلك."
+  },
+  {
+    "instruction": "How do I mark my attendance at an event?",
+    "input": "",
+    "output": "You can mark your attendance by scanning the event barcode at the event venue. Once scanned, your attendance will be confirmed."
+  },
+  {
+    "instruction": "كيف أؤكد حضوري في الحدث؟",
+    "input": "",
+    "output": "يمكنك تأكيد حضورك عن طريق مسح رمز الحدث في مكان الفعالية. بمجرد المسح، سيتم تأكيد حضورك."
+  },
+  {
+    "instruction": "I forgot my password. What should I do?",
+    "input": "",
+    "output": "To reset your password, please visit the password reset page. You'll receive instructions on how to create a new password."
+  },
+  {
+    "instruction": "نسيت كلمة المرور. ماذا يجب أن أفعل؟",
+    "input": "",
+    "output": "لإعادة تعيين كلمة المرور، يرجى زيارة صفحة إعادة تعيين كلمة المرور. ستتلقى تعليمات حول كيفية إنشاء كلمة مرور جديدة."
+  },
+  {
+    "instruction": "I'm having trouble logging in. Can you help?",
+    "input": "",
+    "output": "I can help with troubleshooting. If you are unable to log in, please check your credentials or try resetting your password. For further assistance, please contact support."
+  },
+  {
+    "instruction": "أواجه مشكلة في تسجيل الدخول. هل يمكنك مساعدتي؟",
+    "input": "",
+    "output": "يمكنني مساعدتك في حل المشكلة. إذا كنت غير قادر على تسجيل الدخول، يرجى التحقق من بياناتك أو حاول إعادة تعيين كلمة المرور. للحصول على مساعدة إضافية، يرجى الاتصال بالدعم."
+  },
+  {
+    "instruction": "What happens if I don't attend the event I registered for?",
+    "input": "",
+    "output": "If you do not attend the event, your registration will be considered canceled. Make sure to attend the event to mark your presence."
+  },
+  {
+    "instruction": "ماذا يحدث إذا لم أحضر الحدث الذي سجلت فيه؟",
+    "input": "",
+    "output": "إذا لم تحضر الحدث، سيتم اعتبار تسجيلك ملغى. تأكد من حضور الحدث لتسجيل حضورك."
+  },
+  {
+    "instruction": "Are there any events with limited registration for specific majors?",
+    "input": "",
+    "output": "Yes, some workshops are limited to specific departments. You must be logged in and belong to the eligible department to register."
+  },
+  {
+    "instruction": "هل توجد ورش عمل محدودة التسجيل لأقسام معينة؟",
+    "input": "",
+    "output": "نعم، بعض ورش العمل محدودة لأقسام معينة. يجب أن تكون مسجلاً وتابعاً للقسم المؤهل للتسجيل."
+  },
+  {
+    "instruction": "How can I contact support if I have a registration issue?",
+    "input": "",
+    "output": "If you have a registration issue, please contact the support team via email or visit the support page for assistance."
+  },
+  {
+    "instruction": "كيف يمكنني الاتصال بالدعم إذا كانت لدي مشكلة في التسجيل؟",
+    "input": "",
+    "output": "إذا كانت لديك مشكلة في التسجيل، يرجى الاتصال بفريق الدعم عبر البريد الإلكتروني أو زيارة صفحة الدعم للحصول على المساعدة."
+  },
+  {
+    "instruction": "How do I know which events I am registered for?",
+    "input": "",
+    "output": "You can check your registration status by logging into your account and visiting the event registration page. You'll find a list of events you are registered for."
+  },
+  {
+    "instruction": "كيف أعرف في أي من الفعاليات أنا مسجل؟",
+    "input": "",
+    "output": "يمكنك التحقق من حالة تسجيلك عن طريق تسجيل الدخول إلى حسابك وزيارة صفحة التسجيل. ستجد قائمة بالفعاليات التي تم تسجيلك فيها."
+  },
+  {
+    "instruction": "Can I cancel my event registration?",
+    "input": "",
+    "output": "Yes, you can cancel your registration through your account. Please visit the event page for cancellation instructions."
+  },
+  {
+    "instruction": "هل يمكنني إلغاء تسجيل مشاركتي في الحدث؟",
+    "input": "",
+    "output": "نعم، يمكنك إلغاء تسجيلك من خلال حسابك. يرجى زيارة صفحة الحدث للحصول على تعليمات الإلغاء."
+  },
+  {
+    "instruction": "Is there a way to view past events I attended?",
+    "input": "",
+    "output": "Currently, the system does not display past event attendance. However, you can view your registered events through your account."
+  },
+  {
+    "instruction": "هل يمكنني عرض الفعاليات السابقة التي حضرتها؟",
+    "input": "",
+    "output": "حالياً، لا يعرض النظام الحضور للفعاليات السابقة. ومع ذلك، يمكنك عرض الفعاليات التي تم تسجيلك فيها عبر حسابك."
+  },
+  {
+    "instruction": "How do I register for an event that requires specific department access?",
+    "input": "",
+    "output": "To register for a department-specific event, ensure you are logged in and belong to the required department. You'll be able to register once you're eligible."
+  },
+  {
+    "instruction": "كيف أسجل في حدث يتطلب الوصول إلى قسم معين؟",
+    "input": "",
+    "output": "لتسجيل في حدث مخصص لقسم معين، تأكد من أنك مسجل دخولك وتابع للقسم المطلوب. يمكنك التسجيل بمجرد أن تكون مؤهلاً."
+  },
+  {
+    "instruction": "Can I register for multiple events at once?",
+    "input": "",
+    "output": "Yes, you can register for multiple events, as long as you meet the event requirements. Simply visit the registration page and select the events you wish to attend."
+  },
+  {
+    "instruction": "هل يمكنني التسجيل في عدة فعاليات في وقت واحد؟",
+    "input": "",
+    "output": "نعم، يمكنك التسجيل في عدة فعاليات طالما أنك تستوفي متطلبات الفعالية. فقط قم بزيارة صفحة التسجيل واختر الفعاليات التي ترغب في حضورها."
+  },
+  {
+    "instruction": "Tell me about the 'Hack the Future' event",
+    "input": "",
+    "output": "Hack the Future is a computer science event happening at the Main Building at 8 AM."
+  },
+  {
+    "instruction": "ما هو حدث 'هاك المستقبل'؟",
+    "input": "",
+    "output": "هاك المستقبل هو حدث في علوم الحاسوب يقام في المبنى الرئيسي الساعة 8 صباحاً."
+  },
+  {
+    "instruction": "Where is 'A Code Quest' being held?",
+    "input": "",
+    "output": "A Code Quest is being held at the Main Building at 8 AM. It's a computer science event."
+  },
+  {
+    "instruction": "أين يقام حدث 'رحلة الكود'؟",
+    "input": "",
+    "output": "يقام حدث رحلة الكود في المبنى الرئيسي الساعة 8 صباحاً. وهو حدث في علوم الحاسوب."
+  },
+  {
+    "instruction": "What time does 'Tech Talks' start?",
+    "input": "",
+    "output": "Tech Talks starts at 8 AM at the Main Building. It's a computer science event."
+  },
+  {
+    "instruction": "في أي وقت يبدأ حدث 'محادثات التكنولوجيا'؟",
+    "input": "",
+    "output": "يبدأ حدث محادثات التكنولوجيا الساعة 8 صباحاً في المبنى الرئيسي. وهو حدث في علوم الحاسوب."
+  },
+  {
+    "instruction": "Can you tell me about the 'Tech Carnival'?",
+    "input": "",
+    "output": "Tech Carnival is an activity open to all majors, happening at the Main Building at 8 AM."
+  },
+  {
+    "instruction": "هل يمكنك إخباري عن 'كرنفال التكنولوجيا'؟",
+    "input": "",
+    "output": "كرنفال التكنولوجيا هو نشاط مفتوح لجميع التخصصات، يقام في المبنى الرئيسي الساعة 8 صباحاً."
+  },
+  {
+    "instruction": "What is 'Coding Skills' about?",
+    "input": "",
+    "output": "Coding Skills is an activity for all majors taking place at the Main Building at 8 AM."
+  },
+  {
+    "instruction": "ما هو نشاط 'مهارات البرمجة'؟",
+    "input": "",
+    "output": "مهارات البرمجة هو نشاط لجميع التخصصات يقام في المبنى الرئيسي الساعة 8 صباحاً."
+  },
+  {
+    "instruction": "When is 'Mind Games' happening?",
+    "input": "",
+    "output": "Mind Games is happening at 8 AM at the Main Building. It's an activity open to all majors."
+  },
+  {
+    "instruction": "متى يقام نشاط 'ألعاب العقل'؟",
+    "input": "",
+    "output": "يقام نشاط ألعاب العقل الساعة 8 صباحاً في المبنى الرئيسي. وهو نشاط مفتوح لجميع التخصصات."
+  },
+  {
+    "instruction": "What can you tell me about 'Talent Spark'?",
+    "input": "",
+    "output": "Talent Spark is a college event for all majors, taking place at the Main Building at 8 AM."
+  },
+  {
+    "instruction": "ماذا يمكنك أن تخبرني عن 'شرارة الموهبة'؟",
+    "input": "",
+    "output": "شرارة الموهبة هو حدث جامعي لجميع التخصصات، يقام في المبنى الرئيسي الساعة 8 صباحاً."
+  },
+  {
+    "instruction": "Where is 'Innovate Week' located?",
+    "input": "",
+    "output": "Innovate Week is located at the Main Building at 8 AM. It's a college event open to all majors."
+  },
+  {
+    "instruction": "أين يقع حدث 'أسبوع الابتكار'؟",
+    "input": "",
+    "output": "يقع حدث أسبوع الابتكار في المبنى الرئيسي الساعة 8 صباحاً. وهو حدث جامعي مفتوح لجميع التخصصات."
+  },
+  {
+    "instruction": "What time does 'Skill Up Day' begin?",
+    "input": "",
+    "output": "Skill Up Day begins at 8 AM at the Main Building. It's a college event for all majors."
+  },
+  {
+    "instruction": "في أي وقت يبدأ حدث 'يوم تطوير المهارات'؟",
+    "input": "",
+    "output": "يبدأ حدث يوم تطوير المهارات الساعة 8 صباحاً في المبنى الرئيسي. وهو حدث جامعي لجميع التخصصات."
+  },
+  {
+    "instruction": "Are there any computer science events happening at the main building?",
+    "input": "",
+    "output": "Yes, there are several computer science events at the main building including Hack the Future, A Code Quest, and Tech Talks, all at 8 AM."
+  },
+  {
+    "instruction": "هل هناك أي أحداث في علوم الحاسوب تقام في المبنى الرئيسي؟",
+    "input": "",
+    "output": "نعم، هناك عدة أحداث في علوم الحاسوب في المبنى الرئيسي بما في ذلك هاك المستقبل، رحلة الكود، ومحادثات التكنولوجيا، جميعها الساعة 8 صباحاً."
+  },
+  {
+    "instruction": "What activities are available for all majors?",
+    "input": "",
+    "output": "There are several activities for all majors including Tech Carnival, Coding Skills, and Mind Games, all at the Main Building at 8 AM."
+  },
+  {
+    "instruction": "ما هي الأنشطة المتاحة لجميع التخصصات؟",
+    "input": "",
+    "output": "هناك عدة أنشطة لجميع التخصصات بما في ذلك كرنفال التكنولوجيا، مهارات البرمجة، وألعاب العقل، جميعها في المبنى الرئيسي الساعة 8 صباحاً."
+  },
+  {
+    "instruction": "List all college events happening at 8 AM",
+    "input": "",
+    "output": "College events at 8 AM include Talent Spark, Innovate Week, and Skill Up Day, all at the Main Building."
+  },
+  {
+    "instruction": "What type of event is 'Hack the Future'?",
+    "input": "",
+    "output": "'Hack the Future' is a computer science event happening at the Main Building at 8 AM."
+  },
+  {
+    "instruction": "ما نوع حدث 'هاك المستقبل'؟",
+    "input": "",
+    "output": "'هاك المستقبل' هو حدث في علوم الحاسوب يقام في المبنى الرئيسي الساعة 8 صباحاً."
+  },
+  {
+    "instruction": "Is 'A Code Quest' open to non-CS majors?",
+    "input": "",
+    "output": "No, 'A Code Quest' is specifically for computer science students at the Main Building (8 AM)."
+  },
+  {
+    "instruction": "هل 'رحلة الكود' مفتوحة لغير طلاب علوم الحاسوب؟",
+    "input": "",
+    "output": "لا، 'رحلة الكود' مخصصة لطلاب علوم الحاسوب في المبنى الرئيسي (8 صباحاً)."
+  },
+  {
+    "instruction": "Where exactly in the Main Building will 'Tech Talks' be held?",
+    "input": "",
+    "output": "The specific room for 'Tech Talks' (8 AM, Computer Science event) will be announced at the Main Building entrance."
+  },
+  {
+    "instruction": "أين بالتحديد في المبنى الرئيسي سيقام 'محادثات التكنولوجيا'؟",
+    "input": "",
+    "output": "سيتم الإعلان عن القاعة المحددة لـ'محادثات التكنولوجيا' (8 صباحاً، حدث علوم الحاسوب) عند مدخل المبنى الرئيسي."
+  },
+  {
+    "instruction": "Can freshmen attend the 'Tech Carnival'?",
+    "input": "",
+    "output": "Yes, 'Tech Carnival' is open to all majors and all year levels at the Main Building (8 AM)."
+  },
+  {
+    "instruction": "هل يمكن للطلاب الجدد حضور 'كرنفال التكنولوجيا'؟",
+    "input": "",
+    "output": "نعم، 'كرنفال التكنولوجيا' مفتوح لجميع التخصصات وجميع المستويات الدراسية في المبنى الرئيسي (8 صباحاً)."
+  },
+  {
+    "instruction": "Do I need prior coding experience for 'Coding Skills'?",
+    "input": "",
+    "output": "No, 'Coding Skills' at the Main Building (8 AM) welcomes all majors regardless of experience level."
+  },
+  {
+    "instruction": "هل أحتاج إلى خبرة برمجية مسبقة لـ'مهارات البرمجة'؟",
+    "input": "",
+    "output": "لا، 'مهارات البرمجة' في المبنى الرئيسي (8 صباحاً) ترحب بجميع التخصصات بغض النظر عن مستوى الخبرة."
+  },
+  {
+    "instruction": "What kind of games are in 'Mind Games'?",
+    "input": "",
+    "output": "'Mind Games' features logic puzzles and problem-solving activities for all majors at the Main Building (8 AM)."
+  },
+  {
+    "instruction": "ما نوع الألعاب في 'ألعاب العقل'؟",
+    "input": "",
+    "output": "'ألعاب العقل' تتضمن ألغازاً منطقية وأنشطة لحل المشكلات لجميع التخصصات في المبنى الرئيسي (8 صباحاً)."
+  },
+  {
+    "instruction": "How long will 'Talent Spark' run?",
+    "input": "",
+    "output": "'Talent Spark' starts at 8 AM at the Main Building. The duration will be announced at the event."
+  },
+  {
+    "instruction": "كم ستستمر فعالية 'شرارة الموهبة'؟",
+    "input": "",
+    "output": "'شرارة الموهبة' تبدأ الساعة 8 صباحاً في المبنى الرئيسي. سيتم الإعلان عن المدة خلال الفعالية."
+  },
+  {
+    "instruction": "Is registration required for 'Innovate Week'?",
+    "input": "",
+    "output": "While 'Innovate Week' (Main Building, 8 AM) is open to all majors, registration is recommended for planning purposes."
+  },
+  {
+    "instruction": "هل التسجيل مطلوب لـ'أسبوع الابتكار'؟",
+    "input": "",
+    "output": "بينما 'أسبوع الابتكار' (المبنى الرئيسي، 8 صباحاً) مفتوح لجميع التخصصات، يُنصح بالتسجيل لأغراض التخطيط."
+  },
+  {
+    "instruction": "What skills will be covered in 'Skill Up Day'?",
+    "input": "",
+    "output": "'Skill Up Day' at the Main Building (8 AM) will focus on various professional development skills for all majors."
+  },
+  {
+    "instruction": "ما المهارات التي سيتم تغطيتها في 'يوم تطوير المهارات'؟",
+    "input": "",
+    "output": "سيركز 'يوم تطوير المهارات' في المبنى الرئيسي (8 صباحاً) على مهارات التطور المهني المتنوعة لجميع التخصصات."
+  },
+  {
+    "instruction": "Are the 8 AM computer science events in the same room?",
+    "input": "",
+    "output": "All computer science events (Hack the Future, A Code Quest, Tech Talks) are at 8 AM in the Main Building but may have different rooms."
+  },
+  {
+    "instruction": "Will there be food provided at 'Hack the Future'?",
+    "input": "",
+    "output": "Light refreshments will be available at 'Hack the Future' (Computer Science, Main Building, 8 AM), but we recommend eating breakfast beforehand."
+  },
+  {
+    "instruction": "هل سيتم توفير طعام في حدث 'هاك المستقبل'؟",
+    "input": "",
+    "output": "ستتوفر مشروبات خفيفة في حدث 'هاك المستقبل' (علوم الحاسوب، المبنى الرئيسي، 8 صباحاً)، لكن ننصح بتناول الفطور مسبقاً."
+  },
+  {
+    "instruction": "Is parking available for 'Tech Carnival' attendees?",
+    "input": "",
+    "output": "Limited parking is available near the Main Building for 'Tech Carnival' (All Majors, 8 AM). Carpooling is encouraged."
+  },
+  {
+    "instruction": "هل يوجد مواقف سيارات لحضور 'كرنفال التكنولوجيا'؟",
+    "input": "",
+    "output": "توجد مواقف محدودة بالقرب من المبنى الرئيسي لـ'كرنفال التكنولوجيا' (جميع التخصصات، 8 صباحاً). ننصح بمشاركة السيارات."
+  },
+  {
+    "instruction": "What programming languages will be used in 'A Code Quest'?",
+    "input": "",
+    "output": "'A Code Quest' (Computer Science, Main Building, 8 AM) will focus on Python and JavaScript, but all languages are welcome."
+  },
+  {
+    "instruction": "ما هي لغات البرمجة التي ستستخدم في 'رحلة الكود'؟",
+    "input": "",
+    "output": "سيركز 'رحلة الكود' (علوم الحاسوب، المبنى الرئيسي، 8 صباحاً) على بايثون وجافاسكريبت، لكن جميع اللغات مرحب بها."
+  },
+  {
+    "instruction": "Will 'Innovate Week' have guest speakers?",
+    "input": "",
+    "output": "Yes, 'Innovate Week' (All Majors, Main Building, 8 AM) will feature industry professionals as guest speakers."
+  },
+  {
+    "instruction": "Can I join 'Tech Talks' if I arrive late?",
+    "input": "",
+    "output": "Latecomers may join 'Tech Talks' (Computer Science, Main Building, 8 AM), but early arrival is recommended for full participation."
+  },
+  {
+    "instruction": "هل يمكنني الانضمام إلى 'محادثات التكنولوجيا' إذا وصلت متأخراً؟",
+    "input": "",
+    "output": "يمكن للمتأخرين الانضمام إلى 'محادثات التكنولوجيا' (علوم الحاسوب، المبنى الرئيسي، 8 صباحاً)، لكن ننصح بالحضور المبكر للمشاركة الكاملة."
+  },
+  {
+    "instruction": "Are teams allowed in 'Mind Games'?",
+    "input": "",
+    "output": "Yes, 'Mind Games' (All Majors, Main Building, 8 AM) encourages team participation (2-4 members per team)."
+  },
+  {
+    "instruction": "هل يُسمح بالفرق في 'ألعاب العقل'؟",
+    "input": "",
+    "output": "نعم، يشجع 'ألعاب العقل' (جميع التخصصات، المبنى الرئيسي، 8 صباحاً) المشاركة الجماعية (2-4 أفراد لكل فريق)."
+  },
+  {
+    "instruction": "Should I bring my laptop to 'Coding Skills'?",
+    "input": "",
+    "output": "Bringing a laptop is recommended for 'Coding Skills' (All Majors, Main Building, 8 AM), but not mandatory."
+  },
+  {
+    "instruction": "هل يجب إحضار حاسوب محمول لـ'مهارات البرمجة'؟",
+    "input": "",
+    "output": "ينصح بإحضار حاسوب محمول لـ'مهارات البرمجة' (جميع التخصصات، المبنى الرئيسي، 8 صباحاً)، لكنه ليس إلزامياً."
+  },
+  {
+    "instruction": "What software is needed for 'Hack the Future'?",
+    "input": "",
+    "output": "'Hack the Future' (Computer Science, Main Building, 8 AM) will provide all necessary software on lab computers."
+  },
+  {
+    "instruction": "ما هو البرنامج المطلوب لـ'هاك المستقبل'؟",
+    "input": "",
+    "output": "سيوفر 'هاك المستقبل' (علوم الحاسوب، المبنى الرئيسي، 8 صباحاً) جميع البرامج اللازمة على أجهزة المعمل."
+  },
+  {
+    "instruction": "هل سيحضر متحدثون ضيوف في 'أسبوع الابتكار'؟",
+    "input": "",
+    "output": "نعم، سيضم 'أسبوع الابتكار' (جميع التخصصات، المبنى الرئيسي، 8 صباحاً) محترفين من الصناعة كمتحدثين ضيوف."
+  },
+  {
+    "instruction": "هل أحداث علوم الحاسوب الساعة 8 صباحاً في نفس القاعة؟",
+    "input": "",
+    "output": "جميع أحداث علوم الحاسوب (هاك المستقبل، رحلة الكود، محادثات التكنولوجيا) الساعة 8 صباحاً في المبنى الرئيسي ولكن قد تكون في قاعات مختلفة."
+  },
+  {
+    "instruction": "Can I attend both 'Mind Games' and 'Tech Carnival'?",
+    "input": "",
+    "output": "Yes, both 'Mind Games' and 'Tech Carnival' are at 8 AM in the Main Building for all majors, but check for scheduling conflicts."
+  },
+  {
+    "instruction": "هل يمكنني حضور 'ألعاب العقل' و'كرنفال التكنولوجيا' معاً؟",
+    "input": "",
+    "output": "نعم، كل من 'ألعاب العقل' و'كرنفال التكنولوجيا' الساعة 8 صباحاً في المبنى الرئيسي لجميع التخصصات، ولكن تحقق من التعارض في الجدول الزمني."
+  },
+  {
+    "instruction": "What's the dress code for 'Talent Spark'?",
+    "input": "",
+    "output": "'Talent Spark' at the Main Building (8 AM) has no specific dress code - come as you are!"
+  },
+  {
+    "instruction": "ما هو الزي المطلوب لـ'شرارة الموهبة'؟",
+    "input": "",
+    "output": "ليس هناك زي محدد لـ'شرارة الموهبة' في المبنى الرئيسي (8 صباحاً) - يمكنك الحضور كما أنت!"
+  },
+  {
+    "instruction": "أدرج جميع الأحداث الجامعية التي تقام الساعة 8 صباحاً",
+    "input": "",
+    "output": "الأحداث الجامعية الساعة 8 صباحاً تشمل شرارة الموهبة، أسبوع الابتكار، ويوم تطوير المهارات، جميعها في المبنى الرئيسي."
+  },
+  {
+    "instruction": "هل يمكنني تعديل تسجيلي بعد التسجيل في حدث؟",
+    "input": "",
+    "output": "حاليًا، لا يمكنك تعديل تسجيلك بعد التسجيل في حدث. إذا كنت بحاجة إلى الإلغاء أو التغيير، يرجى استخدام الخيارات المتاحة على صفحة الحدث."
+  },
+  {
+    "instruction": "How can I view my past attended events?",
+    "input": "",
+    "output": "You can view your past attended events in your user profile under the 'My Events' section. This will show all events you've attended along with attendance confirmation."
+  },
+  {
+    "instruction": "Is 'Skill Up Day' wheelchair accessible?",
+    "input": "",
+    "output": "Yes, the Main Building venue for 'Skill Up Day' (All Majors, 8 AM) has full wheelchair accessibility."
+  },
+  {
+    "instruction": "هل 'يوم تطوير المهارات' مجهز لذوي الاحتياجات الخاصة؟",
+    "input": "",
+    "output": "نعم، مكان الفعالية في المبنى الرئيسي لـ'يوم تطوير المهارات' (جميع التخصصات، 8 صباحاً) مجهز بالكامل لكراسي المتحركة."
+  },
+  {
+    "instruction": "Can I present my project at 'Talent Spark'?",
+    "input": "",
+    "output": "Yes, 'Talent Spark' (All Majors, Main Building, 8 AM) welcomes project demonstrations - arrive early to register your presentation."
+  },
+  {
+    "instruction": "هل يمكنني عرض مشروعي في 'شرارة الموهبة'؟",
+    "input": "",
+    "output": "نعم، ترحب 'شرارة الموهبة' (جميع التخصصات، المبنى الرئيسي، 8 صباحاً) بعروض المشاريع - احضر مبكراً لتسجيل عرضك."
+  },
+  {
+    "instruction": "كيف يمكنني عرض الأحداث التي حضرتها في الماضي؟",
+    "input": "",
+    "output": "يمكنك عرض الأحداث التي حضرتها في ملفك الشخصي تحت قسم 'فعالياتي'. ستظهر جميع الأحداث التي حضرتها مع تأكيد الحضور."
+  },
+  {
+    "instruction": "Will there be photos from 'Tech Carnival' posted online?",
+    "input": "",
+    "output": "Yes, photos from 'Tech Carnival' (All Majors, Main Building, 8 AM) will be shared on the university's event portal within 48 hours."
+  },
+  {
+    "instruction": "هل سيتم نشر صور من 'كرنفال التكنولوجيا' على الإنترنت؟",
+    "input": "",
+    "output": "نعم، سيتم مشاركة صور من 'كرنفال التكنولوجيا' (جميع التخصصات، المبنى الرئيسي، 8 صباحاً) على بوابة الفعاليات الجامعية خلال 48 ساعة."
+  },
+  {
+    "instruction": "How can I access materials from 'Tech Talks' after the event?",
+    "input": "",
+    "output": "All presentation materials from 'Tech Talks' (Computer Science, Main Building, 8 AM) will be uploaded to the Computer Science department's website."
+  },
+  {
+    "instruction": "كيف يمكنني الوصول إلى مواد 'محادثات التكنولوجيا' بعد الفعالية؟",
+    "input": "",
+    "output": "سيتم رفع جميع المواد التقديمية من 'محادثات التكنولوجيا' (علوم الحاسوب، المبنى الرئيسي، 8 صباحاً) على موقع قسم علوم الحاسوب."
+  },
+  {
+    "instruction": "How do I know if a speaker will be attending an event?",
+    "input": "",
+    "output": "The event page will list all speakers and guests for the event. Check the event page for updated details about speakers and honor guests."
+  },
+  {
+    "instruction": "كيف يمكنني معرفة إذا كان المتحدث سيحضر الحدث؟",
+    "input": "",
+    "output": "ستعرض صفحة الحدث جميع المتحدثين والضيوف الحاضرين. تحقق من صفحة الحدث للحصول على تفاصيل محدثة حول المتحدثين وضيوف الشرف."
+  },
+  {
+    "instruction": "How can I register for a department-specific workshop?",
+    "input": "",
+    "output": "To register for a department-specific workshop, you need to be logged in with your student account and belong to the same department as the workshop. Once logged in, you can register directly on the event page."
+  },
+  {
+    "instruction": "كيف يمكنني التسجيل في ورشة عمل مخصصة للقسم؟",
+    "input": "",
+    "output": "لتسجيل في ورشة عمل مخصصة للقسم، يجب أن تكون قد سجلت دخولك بحساب الطالب وتكون من نفس القسم الذي تنتمي إليه الورشة. بمجرد تسجيل الدخول، يمكنك التسجيل مباشرة على صفحة الحدث."
+  },
+  {
+    "instruction": "Can I receive reminders for upcoming events?",
+    "input": "",
+    "output": "Yes, you can set reminders for upcoming events. After registering, you can set a reminder through the event page or app."
+  },
+  {
+    "instruction": "هل يمكنني تلقي تذكيرات للأحداث القادمة؟",
+    "input": "",
+    "output": "نعم، يمكنك تعيين تذكيرات للأحداث القادمة. بعد التسجيل، يمكنك تعيين تذكير من خلال صفحة الحدث أو التطبيق."
+  },
+  {
+    "instruction": "How do I register for a recurring event like the monthly talk?",
+    "input": "",
+    "output": "To register for a recurring event like the monthly talk, simply visit the event page for that month's talk. Registration can be done directly from the page once you're logged in."
+  },
+  {
+    "instruction": "كيف يمكنني التسجيل في حدث متكرر مثل الحديث الشهري؟",
+    "input": "",
+    "output": "لتسجيل في حدث متكرر مثل الحديث الشهري، قم بزيارة صفحة الحدث الخاصة بشهر هذا الحديث. يمكن التسجيل مباشرة من الصفحة بمجرد تسجيل الدخول."
+  },
+  {
+    "instruction": "Can I register for events in advance or do I have to wait until the event day?",
+    "input": "",
+    "output": "You can register for events in advance. As long as the event is open for registration, you can register at any time before the event date."
+  },
+  {
+    "instruction": "هل يمكنني التسجيل في الأحداث مسبقًا أم يجب علي الانتظار حتى يوم الحدث؟",
+    "input": "",
+    "output": "يمكنك التسجيل في الأحداث مسبقًا. طالما أن الحدث مفتوح للتسجيل، يمكنك التسجيل في أي وقت قبل تاريخ الحدث."
+  },
+  {
+    "instruction": "I can't find the event page, can you help me?",
+    "input": "",
+    "output": "If you can't find the event page, try searching for the event by name, category, or keyword. If it's a department-specific event, ensure you're logged in and belong to the correct department."
+  },
+  {
+    "instruction": "لا أستطيع العثور على صفحة الحدث، هل يمكنك مساعدتي؟",
+    "input": "",
+    "output": "إذا لم تتمكن من العثور على صفحة الحدث، حاول البحث عن الحدث باستخدام الاسم أو الفئة أو الكلمة المفتاحية. إذا كان الحدث مخصصًا للقسم، تأكد من أنك مسجل الدخول وتنتمي إلى القسم الصحيح."
+  },
+  {
+    "instruction": "What happens if I arrive late to the event?",
+    "input": "",
+    "output": "If you arrive late, you can still attend the event, but you may miss some of the content. Attendance will be recorded when you scan the barcode at the event."
+  },
+  {
+    "instruction": "ماذا يحدث إذا تأخرت في الحضور إلى الحدث؟",
+    "input": "",
+    "output": "إذا تأخرت، يمكنك حضور الحدث، لكن قد تفوت بعض المحتوى. سيتم تسجيل الحضور عند مسحك للباركود في الحدث."
+  },
+  {
+    "instruction": "How do I know the exact date and time of an event?",
+    "input": "",
+    "output": "You can find the exact date and time of an event on the event page. It's listed in the event details section along with other important information."
+  },
+  {
+    "instruction": "كيف أعرف التاريخ والوقت المحددين للحدث؟",
+    "input": "",
+    "output": "يمكنك العثور على التاريخ والوقت المحددين للحدث في صفحة الحدث. يتم إدراجهما في قسم تفاصيل الحدث مع المعلومات المهمة الأخرى."
+  },
+  {
+    "instruction": "Can I register for events that are restricted to specific majors if I’m not from that major?",
+    "input": "",
+    "output": "No, you can only register for department-specific events if you're from the same department. If the event is open to all majors, you can register without any restrictions."
+  },
+  {
+    "instruction": "هل يمكنني التسجيل في الأحداث المخصصة لتخصصات معينة إذا لم أكن من ذلك التخصص؟",
+    "input": "",
+    "output": "لا، يمكنك التسجيل فقط في الأحداث المخصصة للقسم إذا كنت من نفس القسم. إذا كان الحدث مفتوحًا لجميع التخصصات، يمكنك التسجيل دون أي قيود."
+  },
+  {
+    "instruction": "How do I access event materials after the event is over?",
+    "input": "",
+    "output": "Event materials, if available, are usually provided after the event. Check the event page or your email for links or resources."
+  },
+  {
+    "instruction": "كيف يمكنني الوصول إلى مواد الحدث بعد انتهائه؟",
+    "input": "",
+    "output": "عادةً ما يتم توفير مواد الحدث بعد انتهائه. تحقق من صفحة الحدث أو بريدك الإلكتروني للحصول على الروابط أو الموارد."
+  },
+  {
+    "instruction": "Can I attend an event without registering for it first?",
+    "input": "",
+    "output": "No, you must register for most events before attending. However, some events may allow walk-in attendance, but you should check the event page for availability."
+  },
+  {
+    "instruction": "هل يمكنني حضور حدث دون التسجيل فيه أولًا؟",
+    "input": "",
+    "output": "لا، يجب عليك التسجيل في معظم الأحداث قبل الحضور. ومع ذلك، قد تسمح بعض الأحداث بالحضور دون التسجيل، لكن يجب عليك التحقق من صفحة الحدث لمعرفة توفر الأماكن."
+  },
+  {
+    "instruction": "How can I contact the event organizer for further questions?",
+    "input": "",
+    "output": "You can contact the event organizer by reaching out through the contact details provided on the event page. If no contact info is listed, you can use the general support contact."
+  },
+  {
+    "instruction": "كيف يمكنني الاتصال بمنظم الحدث لطرح المزيد من الأسئلة؟",
+    "input": "",
+    "output": "يمكنك الاتصال بمنظم الحدث عبر التفاصيل المقدمة في صفحة الحدث. إذا لم يتم إدراج معلومات الاتصال، يمكنك استخدام الاتصال العام بالدعم."
+  },
+  {
+    "instruction": "What should I do if the event page shows that the event is full?",
+    "input": "",
+    "output": "If the event is full, you may want to check the event page periodically to see if spots open up. Some events may also have a waiting list if spots become available."
+  },
+  {
+    "instruction": "ماذا يجب أن أفعل إذا كانت صفحة الحدث تظهر أن الحدث ممتلئ؟",
+    "input": "",
+    "output": "إذا كان الحدث ممتلئًا، قد ترغب في التحقق من صفحة الحدث بين الحين والآخر لمعرفة ما إذا كانت الأماكن قد فتحت. قد تحتوي بعض الأحداث أيضًا على قائمة انتظار إذا أصبحت الأماكن متاحة."
+  },
+  {
+    "instruction": "How can I find out if an event has been canceled?",
+    "input": "",
+    "output": "If an event is canceled, an announcement will be made on the event page. You will also receive a notification if you're registered for the event."
+  },
+  {
+    "instruction": "كيف يمكنني معرفة ما إذا تم إلغاء الحدث؟",
+    "input": "",
+    "output": "إذا تم إلغاء الحدث، سيتم الإعلان عن ذلك في صفحة الحدث. كما ستتلقى إشعارًا إذا كنت مسجلاً في الحدث."
+  },
+  {
+    "instruction": "How do I know which events are open to all students?",
+    "input": "",
+    "output": "Events that are open to all students will be clearly marked on the event page. You can also filter events by accessibility to find open ones."
+  },
+  {
+    "instruction": "كيف يمكنني معرفة أي الأحداث مفتوحة لجميع الطلاب؟",
+    "input": "",
+    "output": "الأحداث المفتوحة لجميع الطلاب سيتم تمييزها بوضوح في صفحة الحدث. يمكنك أيضًا تصفية الأحداث حسب الوصول للعثور على الأحداث المفتوحة."
+  },
+  {
+    "instruction": "Can I register for an event after the registration deadline has passed?",
+    "input": "",
+    "output": "Unfortunately, you cannot register for an event after the registration deadline has passed. Make sure to register before the deadline to secure your spot."
+  },
+  {
+    "instruction": "هل يمكنني التسجيل في الحدث بعد انتهاء موعد التسجيل؟",
+    "input": "",
+    "output": "للأسف، لا يمكنك التسجيل في الحدث بعد انتهاء موعد التسجيل. تأكد من التسجيل قبل الموعد النهائي لتأمين مكانك."
+  },
+  {
+    "instruction": "I am not from the specified department, can I still attend the department-specific event?",
+    "input": "",
+    "output": "Department-specific events are only accessible to students from the corresponding department. However, you can attend events that are open to all students."
+  },
+  {
+    "instruction": "أنا لست من القسم المحدد، هل يمكنني حضور الحدث المخصص للقسم؟",
+    "input": "",
+    "output": "الأحداث المخصصة للقسم متاحة فقط للطلاب من القسم المعني. ومع ذلك، يمكنك حضور الأحداث المفتوحة لجميع الطلاب."
+  },
+  {
+    "instruction": "What happens if I can't attend the event I registered for?",
+    "input": "",
+    "output": "If you cannot attend an event you registered for, you should cancel your registration if possible. If not, you will be marked as unattended."
+  },
+  {
+    "instruction": "ماذا يحدث إذا لم أتمكن من حضور الحدث الذي سجلت فيه؟",
+    "input": "",
+    "output": "إذا لم تتمكن من حضور الحدث الذي سجلت فيه، يجب عليك إلغاء تسجيلك إذا كان ذلك ممكنًا. إذا لم تتمكن من إلغاء التسجيل، فسيتم اعتبارك غير حاضرا."
+  },
+  {
+    "instruction": "How do I set a reminder for an event?",
+    "input": "",
+    "output": "To set a reminder for an event, simply go to the event page and select the option to set a reminder. You will then receive a notification before the event starts."
+  },
+  {
+    "instruction": "كيف يمكنني تحديد تذكير لحدث؟",
+    "input": "",
+    "output": "لتحديد تذكير لحدث، قم بزيارة صفحة الحدث وحدد خيار تحديد التذكير. ستتلقى إشعارًا قبل بدء الحدث."
+  },
+  {
+    "instruction": "Is there any way to change my registration for an event?",
+    "input": "",
+    "output": "If you need to change your registration, you will need to cancel your current registration and register again if the event is still open for registration."
+  },
+  {
+    "instruction": "هل هناك طريقة لتغيير تسجيلي في الحدث؟",
+    "input": "",
+    "output": "إذا كنت بحاجة إلى تغيير تسجيلك، عليك إلغاء تسجيلك الحالي وإعادة التسجيل إذا كان الحدث لا يزال مفتوحًا للتسجيل."
+  },
+  {
+    "instruction": "Can I register for multiple events at the same time?",
+    "input": "",
+    "output": "Yes, you can register for multiple events at the same time as long as the events do not overlap in timing."
+  },
+  {
+    "instruction": "هل يمكنني التسجيل في عدة أحداث في نفس الوقت؟",
+    "input": "",
+    "output": "نعم، يمكنك التسجيل في عدة أحداث في نفس الوقت طالما أن الأحداث لا تتداخل في التوقيت."
+  },
+  {
+    "instruction": "How do I know if my registration was successful?",
+    "input": "",
+    "output": "You will receive a confirmation notification once your registration is successful. You can also check your registered events list for confirmation."
+  },
+  {
+    "instruction": "كيف أعرف إذا تم التسجيل بنجاح؟",
+    "input": "",
+    "output": "ستتلقى إشعارًا بتأكيد التسجيل عند نجاح التسجيل. يمكنك أيضًا التحقق من قائمة الأحداث المسجلة لديك للتأكيد."
+  },
+  {
+    "instruction": "What should I do if the event I want to attend is full?",
+    "input": "",
+    "output": "If the event is full, you can add yourself to the waiting list if the option is available. Alternatively, you can check for other upcoming events."
+  },
+  {
+    "instruction": "ماذا يجب أن أفعل إذا كان الحدث الذي أريد حضوره ممتلئًا؟",
+    "input": "",
+    "output": "إذا كان الحدث ممتلئًا، يمكنك إضافة نفسك إلى قائمة الانتظار إذا كانت هذه الخيار متاحًا. بدلاً من ذلك، يمكنك التحقق من الأحداث القادمة الأخرى."
+  },
+  {
+    "instruction": "How can I find out if a specific speaker is attending an event?",
+    "input": "",
+    "output": "You can check the event page for details about the speakers. If the speaker is confirmed, their name and details will be listed in the event description."
+  },
+  {
+    "instruction": "كيف يمكنني معرفة ما إذا كان المتحدث المحدد سيحضر الحدث؟",
+    "input": "",
+    "output": "يمكنك التحقق من صفحة الحدث لمعرفة تفاصيل المتحدثين. إذا تم تأكيد المتحدث، سيتم إدراج اسمه وتفاصيله في وصف الحدث."
+  },
+  {
+    "instruction": "Can I attend an event if I am not registered?",
+    "input": "",
+    "output": "In most cases, registration is required to attend an event. However, if there are any available spots on the day of the event, some events may allow walk-ins."
+  },
+  {
+    "instruction": "هل يمكنني حضور حدث إذا لم أكن مسجلاً؟",
+    "input": "",
+    "output": "في معظم الحالات، يجب التسجيل لحضور الحدث. ومع ذلك، إذا كانت هناك أماكن متاحة في يوم الحدث، قد تسمح بعض الأحداث بالحضور بدون تسجيل."
+  },
+  {
+    "instruction": "Can I ask questions about the event on the event page?",
+    "input": "",
+    "output": "Yes, you can ask questions about the event through the event page's comment or question section if it is available."
+  },
+  {
+    "instruction": "هل يمكنني طرح أسئلة حول الحدث في صفحة الحدث؟",
+    "input": "",
+    "output": "نعم، يمكنك طرح أسئلة حول الحدث من خلال قسم التعليقات أو الأسئلة في صفحة الحدث إذا كان متاحًا."
+  },
+  {
+    "instruction": "Can I share event details with others?",
+    "input": "",
+    "output": "Yes, you can share the event details with others by sending them the event page link. This way, they can view all the information and register if they are interested."
+  },
+  {
+    "instruction": "هل يمكنني مشاركة تفاصيل الحدث مع الآخرين؟",
+    "input": "",
+    "output": "نعم، يمكنك مشاركة تفاصيل الحدث مع الآخرين عن طريق إرسال رابط صفحة الحدث لهم. بهذه الطريقة، يمكنهم الاطلاع على جميع المعلومات والتسجيل إذا كانوا مهتمين."
+  },
+  {
+    "instruction": "How do I get notified about upcoming events?",
+    "input": "",
+    "output": "You can subscribe to event notifications on the website. You will receive alerts via app notifications or emails for events you're interested in or registered for."
+  },
+  {
+    "instruction": "كيف أحصل على إشعارات حول الأحداث القادمة؟",
+    "input": "",
+    "output": "يمكنك الاشتراك في إشعارات الأحداث على الموقع. ستتلقى تنبيهات عبر إشعارات التطبيق أو البريد الإلكتروني للأحداث التي تهتم بها أو التي سجلت فيها."
+  },
+  {
+    "instruction": "Can I unregister from an event once registered?",
+    "input": "",
+    "output": "Yes, you can unregister from an event at any time before the event starts. Go to your registration details and select the option to cancel your registration."
+  },
+  {
+    "instruction": "هل يمكنني إلغاء تسجيلي في حدث بعد التسجيل؟",
+    "input": "",
+    "output": "نعم، يمكنك إلغاء تسجيلك في الحدث في أي وقت قبل بدء الحدث. اذهب إلى تفاصيل تسجيلك واختر خيار إلغاء التسجيل."
+  },
+  {
+    "instruction": "How do I change my event preferences?",
+    "input": "",
+    "output": "To change your event preferences, you can update them in your profile settings. This will affect the types of events you are notified about."
+  },
+  {
+    "instruction": "كيف يمكنني تغيير تفضيلاتي للأحداث؟",
+    "input": "",
+    "output": "لتغيير تفضيلاتك للأحداث، يمكنك تحديثها في إعدادات ملفك الشخصي. سيؤثر ذلك على أنواع الأحداث التي يتم إعلامك بها."
+  },
+  {
+    "instruction": "Is there a limit to how many events I can register for?",
+    "input": "",
+    "output": "There is no limit to the number of events you can register for, as long as they do not overlap in timing. Be sure to check the event schedule for any potential conflicts."
+  },
+  {
+    "instruction": "هل يوجد حد لعدد الأحداث التي يمكنني التسجيل فيها؟",
+    "input": "",
+    "output": "لا يوجد حد لعدد الأحداث التي يمكنك التسجيل فيها، طالما أنها لا تتداخل في التوقيت. تأكد من التحقق من جدول الأحداث لأي تعارض محتمل."
+  },
+  {
+    "instruction": "Can I cancel my registration through the chatbot?",
+    "input": "",
+    "output": "While the chatbot cannot directly cancel your registration, it can guide you on how to do so through your event registration page."
+  },
+  {
+    "instruction": "هل يمكنني إلغاء تسجيلي عبر روبوت الدردشة؟",
+    "input": "",
+    "output": "بينما لا يمكن لروبوت الدردشة إلغاء تسجيلك مباشرة، يمكنه إرشادك حول كيفية القيام بذلك من خلال صفحة تسجيل الحدث."
+  },
+  {
+    "instruction": "How do I know if I have successfully registered for an event?",
+    "input": "",
+    "output": "You will receive a confirmation notification once your registration is successful. Additionally, you can check your registered events list."
+  },
+  {
+    "instruction": "كيف يمكنني معرفة إذا تم تسجيلي بنجاح في حدث؟",
+    "input": "",
+    "output": "ستتلقى إشعار تأكيد بمجرد نجاح تسجيلك. بالإضافة إلى ذلك، يمكنك التحقق من قائمة الأحداث المسجلة لديك."
+  },
+  {
+    "instruction": "Can I view the event agenda and topics in advance?",
+    "input": "",
+    "output": "Yes, the event agenda and topics are usually available on the event page. Check the event details for the full schedule and agenda."
+  },
+  {
+    "instruction": "هل يمكنني عرض جدول الحدث والمواضيع مسبقًا؟",
+    "input": "",
+    "output": "نعم، عادة ما يكون جدول الحدث والمواضيع متاحة على صفحة الحدث. تحقق من تفاصيل الحدث للحصول على الجدول الكامل والمواضيع."
+  },
+  {
+    "instruction": "What if I miss the registration deadline for an event?",
+    "input": "",
+    "output": "If you miss the registration deadline, you will not be able to register. However, you may be able to attend the event if there are available spots on the day."
+  },
+  {
+    "instruction": "ماذا يحدث إذا فاتني موعد التسجيل لحدث؟",
+    "input": "",
+    "output": "إذا فاتك موعد التسجيل، فلن تتمكن من التسجيل. ومع ذلك، قد تتمكن من حضور الحدث إذا كانت هناك أماكن متاحة في اليوم المحدد."
+  },
+  {
+    "instruction": "How do I change my department for department-specific events?",
+    "input": "",
+    "output": "Department-specific events are tied to your department. If you wish to change your department, you need to update your profile details. Contact the support team for assistance if needed."
+  },
+  {
+    "instruction": "كيف يمكنني تغيير قسم التخصص الخاص بي لأحداث القسم؟",
+    "input": "",
+    "output": "الأحداث المخصصة للقسم مرتبطة بقسمك. إذا كنت ترغب في تغيير قسمك، يجب عليك تحديث تفاصيل ملفك الشخصي. اتصل بفريق الدعم للمساعدة إذا لزم الأمر."
+  },
+  {
+    "instruction": "Can I register for events using my phone?",
+    "input": "",
+    "output": "Yes, you can register for events using your phone. Simply log in to the website or use the app and follow the registration process."
+  },
+  {
+    "instruction": "هل يمكنني التسجيل في الأحداث باستخدام هاتفي؟",
+    "input": "",
+    "output": "نعم، يمكنك التسجيل في الأحداث باستخدام هاتفك. ببساطة قم بتسجيل الدخول إلى الموقع أو استخدم التطبيق واتبع عملية التسجيل."
+  },
+  {
+    "instruction": "How do I find out more about a speaker's background?",
+    "input": "",
+    "output": "To learn more about a speaker's background, you can check the event page for details. The speaker's biography and other relevant information are usually listed there."
+  },
+  {
+    "instruction": "كيف يمكنني معرفة المزيد عن خلفية المتحدث؟",
+    "input": "",
+    "output": "لتعرف المزيد عن خلفية المتحدث، يمكنك التحقق من صفحة الحدث للحصول على التفاصيل. يتم عادةً إدراج سيرة المتحدث والمعلومات الأخرى ذات الصلة هناك."
+  },
+  {
+    "instruction": "Can I attend a department-specific event if I'm registered for the event but not from the department?",
+    "input": "",
+    "output": "No, you can only attend department-specific events if you are from the same department. Registration alone does not grant access if you're from a different department."
+  },
+  {
+    "instruction": "هل يمكنني حضور حدث مخصص للقسم إذا كنت مسجلاً في الحدث ولكنني لست من ذلك القسم؟",
+    "input": "",
+    "output": "لا، يمكنك حضور الأحداث المخصصة للقسم فقط إذا كنت من نفس القسم. التسجيل وحده لا يمنحك الوصول إذا كنت من قسم مختلف."
+  },
+  {
+    "instruction": "How do I know which events are available for my department?",
+    "input": "",
+    "output": "You can check the event listings for department-specific events. Once logged in, events for your department will be visible to you."
+  },
+  {
+    "instruction": "كيف يمكنني معرفة أي الأحداث متاحة لقسمي؟",
+    "input": "",
+    "output": "يمكنك التحقق من قوائم الأحداث للأحداث المخصصة للقسم. بمجرد تسجيل الدخول، ستظهر لك الأحداث الخاصة بقسمك."
+  },
+  {
+    "instruction": "Can I get a certificate for attending an event?",
+    "input": "",
+    "output": "Certificates may be provided for certain events. Check the event details to see if certificates are offered. If available, you will receive it after attending the event."
+  },
+  {
+    "instruction": "هل يمكنني الحصول على شهادة لحضور حدث؟",
+    "input": "",
+    "output": "قد يتم توفير شهادات لبعض الأحداث. تحقق من تفاصيل الحدث لمعرفة ما إذا كانت الشهادات متاحة. إذا كانت متاحة، ستتلقاها بعد حضور الحدث."
+  },
+  {
+    "instruction": "How can I change my registration details for an event?",
+    "input": "",
+    "output": "You can update your registration details by visiting the event page. If changes are allowed, there will be an option to edit your registration information."
+  },
+  {
+    "instruction": "كيف يمكنني تغيير تفاصيل تسجيلي لحدث؟",
+    "input": "",
+    "output": "يمكنك تحديث تفاصيل تسجيلك من خلال زيارة صفحة الحدث. إذا كانت التعديلات مسموح بها، سيكون هناك خيار لتحرير معلومات تسجيلك."
+  },
+  {
+    "instruction": "Can I attend an event if I’m not registered?",
+    "input": "",
+    "output": "Generally, you need to register to attend an event. However, some events may allow walk-in attendance depending on available space. Check the event details for more information."
+  },
+  {
+    "instruction": "هل يمكنني حضور حدث إذا لم أكن مسجلاً؟",
+    "input": "",
+    "output": "بشكل عام، يجب عليك التسجيل لحضور الحدث. ومع ذلك، قد تسمح بعض الأحداث بالحضور بدون تسجيل حسب المساحة المتاحة. تحقق من تفاصيل الحدث لمزيد من المعلومات."
+  },
+  {
+    "instruction": "How do I know if I have missed an event?",
+    "input": "",
+    "output": "If you missed an event, it will no longer appear in your list of upcoming events. You may also receive a notification if the event was significant or if it had an impact on your department."
+  },
+  {
+    "instruction": "كيف يمكنني معرفة إذا فاتني حدث؟",
+    "input": "",
+    "output": "إذا فاتك حدث، فلن يظهر في قائمة الأحداث القادمة. قد تتلقى أيضًا إشعارًا إذا كان الحدث مهمًا أو إذا كان له تأثير على قسمك."
+  },
+  {
+    "instruction": "Can I register for an event on behalf of someone else?",
+    "input": "",
+    "output": "No, you cannot register for an event on behalf of someone else. Each user must register individually using their own account."
+  },
+  {
+    "instruction": "هل يمكنني التسجيل في حدث نيابة عن شخص آخر؟",
+    "input": "",
+    "output": "لا، لا يمكنك التسجيل في حدث نيابة عن شخص آخر. يجب على كل مستخدم التسجيل بشكل فردي باستخدام حسابه الخاص."
+  },
+  {
+    "instruction": "Can I attend an event if I am not logged in?",
+    "input": "",
+    "output": "You need to be logged in to register for most events. However, you may still be able to view event details even if you're not logged in."
+  },
+  {
+    "instruction": "هل يمكنني حضور حدث إذا لم أكن مسجلاً للدخول؟",
+    "input": "",
+    "output": "يجب أن تكون مسجلاً للدخول لتسجيل معظم الأحداث. ومع ذلك، قد تتمكن من عرض تفاصيل الحدث حتى لو لم تكن مسجلاً للدخول."
+  },
+  {
+    "instruction": "How do I get updates if an event is canceled?",
+    "input": "",
+    "output": "If an event is canceled, you will receive an update via app notification or email. Check the event page for the latest status and alternative arrangements."
+  },
+  {
+    "instruction": "كيف أحصل على تحديثات إذا تم إلغاء حدث؟",
+    "input": "",
+    "output": "إذا تم إلغاء حدث، ستتلقى تحديثًا عبر إشعار التطبيق أو البريد الإلكتروني. تحقق من صفحة الحدث لمعرفة آخر المستجدات والترتيبات البديلة."
+  },
+  {
+    "instruction": "What happens if I forget to scan my barcode at an event?",
+    "input": "",
+    "output": "If you forget to scan your barcode, your attendance will not be recorded. You can check with the event staff to see if they can manually mark your attendance."
+  },
+  {
+    "instruction": "ماذا يحدث إذا نسيت مسح الباركود الخاص بي في حدث؟",
+    "input": "",
+    "output": "إذا نسيت مسح الباركود الخاص بك، فلن يتم تسجيل حضورك. يمكنك التحقق مع موظفي الحدث لمعرفة ما إذا كان بإمكانهم تسجيل حضورك يدويًا."
+  },
+  {
+    "instruction": "How can I contact the event organizers?",
+    "input": "",
+    "output": "You can contact the event organizers via the contact details provided on the event page. Look for the 'Contact' section for email addresses or phone numbers."
+  },
+  {
+    "instruction": "كيف يمكنني الاتصال بمنظمي الحدث؟",
+    "input": "",
+    "output": "يمكنك الاتصال بمنظمي الحدث من خلال تفاصيل الاتصال المتاحة على صفحة الحدث. ابحث عن قسم 'الاتصال' للحصول على عناوين البريد الإلكتروني أو أرقام الهواتف."
+  },
+  {
+    "instruction": "How do I register for a recurring event?",
+    "input": "",
+    "output": "To register for a recurring event, simply select the event from the listings and follow the registration process. You may need to register separately for each occurrence."
+  },
+  {
+    "instruction": "كيف يمكنني التسجيل في حدث متكرر؟",
+    "input": "",
+    "output": "لتسجيل في حدث متكرر، اختر الحدث من القائمة واتبع عملية التسجيل. قد تحتاج إلى التسجيل بشكل منفصل لكل مرة من الحدث."
+  },
+  {
+    "instruction": "Can I ask questions during an event?",
+    "input": "",
+    "output": "During an event, you may have the opportunity to ask questions depending on the format. Some events have Q&A sessions, while others may offer opportunities through live chat or after the event."
+  },
+  {
+    "instruction": "هل يمكنني طرح أسئلة خلال حدث؟",
+    "input": "",
+    "output": "خلال الحدث، قد يكون لديك الفرصة لطرح الأسئلة حسب تنسيق الحدث. بعض الأحداث تحتوي على جلسات أسئلة وأجوبة، بينما قد توفر أحداث أخرى فرصًا من خلال الدردشة المباشرة أو بعد الحدث."
+  },
+  {
+    "instruction": "How can I know if an event is available for my major?",
+    "input": "",
+    "output": "You can check the event details for department-specific tags or filters. Events that are available for your major will be visible if you're logged in with your department account."
+  },
+  {
+    "instruction": "كيف يمكنني معرفة ما إذا كان الحدث متاحًا لتخصصي؟",
+    "input": "",
+    "output": "يمكنك التحقق من تفاصيل الحدث للبحث عن العلامات أو الفلاتر المخصصة للقسم. ستظهر الأحداث المتاحة لتخصصك إذا كنت قد سجلت الدخول باستخدام حساب القسم الخاص بك."
+  },
+  {
+    "instruction": "Can I attend an event if I am not from the invited department?",
+    "input": "",
+    "output": "No, department-specific events are only available for students from the invited department. You will not be able to register for such events unless you are from the relevant department."
+  },
+  {
+    "instruction": "هل يمكنني حضور حدث إذا لم أكن من القسم المدعو؟",
+    "input": "",
+    "output": "لا، الأحداث الخاصة بالقسم متاحة فقط للطلاب من القسم المدعو. لن تتمكن من التسجيل في مثل هذه الأحداث إلا إذا كنت من القسم المعني."
+  }
+]
